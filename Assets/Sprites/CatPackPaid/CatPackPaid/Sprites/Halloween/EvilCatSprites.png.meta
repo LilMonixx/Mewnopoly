@@ -1,0 +1,3042 @@
+fileFormatVersion: 2
+guid: 1a0d7cb9f60b45744937ab04d44e4727
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1677210776073469243
+    second: EvilCatSprites_0
+  - first:
+      213: -4685624379692485384
+    second: EvilCatSprites_1
+  - first:
+      213: -372227438290453263
+    second: EvilCatSprites_2
+  - first:
+      213: -2662443466191285343
+    second: EvilCatSprites_3
+  - first:
+      213: -5570018404506196071
+    second: EvilCatSprites_4
+  - first:
+      213: 1379277461232027049
+    second: EvilCatSprites_5
+  - first:
+      213: 3917827344795245419
+    second: EvilCatSprites_6
+  - first:
+      213: -9135230280614490420
+    second: EvilCatSprites_7
+  - first:
+      213: 1889406771262215945
+    second: EvilCatSprites_8
+  - first:
+      213: -3007509009001908244
+    second: EvilCatSprites_9
+  - first:
+      213: 9097799744075963469
+    second: EvilCatSprites_10
+  - first:
+      213: -7990149221568822193
+    second: EvilCatSprites_11
+  - first:
+      213: 4868520389141561836
+    second: EvilCatSprites_12
+  - first:
+      213: -2548803873551731755
+    second: EvilCatSprites_13
+  - first:
+      213: -5327590704877614205
+    second: EvilCatSprites_14
+  - first:
+      213: -788670082177799149
+    second: EvilCatSprites_15
+  - first:
+      213: 6732203175426194553
+    second: EvilCatSprites_16
+  - first:
+      213: -5698293299636371912
+    second: EvilCatSprites_17
+  - first:
+      213: 3656866802904545485
+    second: EvilCatSprites_18
+  - first:
+      213: 2051617328896653973
+    second: EvilCatSprites_19
+  - first:
+      213: -84322727716406826
+    second: EvilCatSprites_20
+  - first:
+      213: -1447184863910192326
+    second: EvilCatSprites_21
+  - first:
+      213: 568310139507237940
+    second: EvilCatSprites_22
+  - first:
+      213: -7420480068500943669
+    second: EvilCatSprites_23
+  - first:
+      213: 3336221987829978105
+    second: EvilCatSprites_24
+  - first:
+      213: -7286417546498630029
+    second: EvilCatSprites_25
+  - first:
+      213: 6681758121693301142
+    second: EvilCatSprites_26
+  - first:
+      213: -3359973671103001093
+    second: EvilCatSprites_27
+  - first:
+      213: -5511959649674406972
+    second: EvilCatSprites_28
+  - first:
+      213: -4304427988852360987
+    second: EvilCatSprites_29
+  - first:
+      213: 5294775011097999131
+    second: EvilCatSprites_30
+  - first:
+      213: 6841077896754818050
+    second: EvilCatSprites_31
+  - first:
+      213: -6221772011678056935
+    second: EvilCatSprites_32
+  - first:
+      213: 4984656004676342587
+    second: EvilCatSprites_33
+  - first:
+      213: 7631768337331657999
+    second: EvilCatSprites_34
+  - first:
+      213: 5059839348229777680
+    second: EvilCatSprites_35
+  - first:
+      213: -365573118957248777
+    second: EvilCatSprites_36
+  - first:
+      213: 5895869298369243623
+    second: EvilCatSprites_37
+  - first:
+      213: 3263278713844616416
+    second: EvilCatSprites_38
+  - first:
+      213: -4972579856902769981
+    second: EvilCatSprites_39
+  - first:
+      213: -740373242240242499
+    second: EvilCatSprites_40
+  - first:
+      213: 298297893689239712
+    second: EvilCatSprites_41
+  - first:
+      213: -1091294502096669476
+    second: EvilCatSprites_42
+  - first:
+      213: 8485651061223169785
+    second: EvilCatSprites_43
+  - first:
+      213: -5268226909144481189
+    second: EvilCatSprites_44
+  - first:
+      213: 3781205678115518450
+    second: EvilCatSprites_45
+  - first:
+      213: -7641522932871433949
+    second: EvilCatSprites_46
+  - first:
+      213: 1666667734170903387
+    second: EvilCatSprites_47
+  - first:
+      213: 5416272574126221263
+    second: EvilCatSprites_48
+  - first:
+      213: 3019594517052164905
+    second: EvilCatSprites_49
+  - first:
+      213: 347034668025500159
+    second: EvilCatSprites_50
+  - first:
+      213: 4621475051345012960
+    second: EvilCatSprites_51
+  - first:
+      213: -6683276026907711725
+    second: EvilCatSprites_52
+  - first:
+      213: -7826466748306095218
+    second: EvilCatSprites_53
+  - first:
+      213: 2385192111109513917
+    second: EvilCatSprites_54
+  - first:
+      213: -5170892836798037052
+    second: EvilCatSprites_55
+  - first:
+      213: 1305844025384019946
+    second: EvilCatSprites_56
+  - first:
+      213: 7652643204893364816
+    second: EvilCatSprites_57
+  - first:
+      213: 4693039240951805556
+    second: EvilCatSprites_58
+  - first:
+      213: 3467973363709247492
+    second: EvilCatSprites_59
+  - first:
+      213: -6883979074176255722
+    second: EvilCatSprites_60
+  - first:
+      213: 7427207613070406882
+    second: EvilCatSprites_61
+  - first:
+      213: -5085071334976451334
+    second: EvilCatSprites_62
+  - first:
+      213: 9091541771225512597
+    second: EvilCatSprites_63
+  - first:
+      213: 5075478944290335222
+    second: EvilCatSprites_64
+  - first:
+      213: -8298774320058159513
+    second: EvilCatSprites_65
+  - first:
+      213: 7089788597527360536
+    second: EvilCatSprites_66
+  - first:
+      213: 314852189636730301
+    second: EvilCatSprites_67
+  - first:
+      213: 5978882621134230145
+    second: EvilCatSprites_68
+  - first:
+      213: -6492596895397545060
+    second: EvilCatSprites_69
+  - first:
+      213: 5683771877442432421
+    second: EvilCatSprites_70
+  - first:
+      213: 6205582124925460943
+    second: EvilCatSprites_71
+  - first:
+      213: 987637301912704086
+    second: EvilCatSprites_72
+  - first:
+      213: 6984714745174466048
+    second: EvilCatSprites_73
+  - first:
+      213: 37516381376642966
+    second: EvilCatSprites_74
+  - first:
+      213: -7621019389124394530
+    second: EvilCatSprites_75
+  - first:
+      213: -8977953307839885303
+    second: EvilCatSprites_76
+  - first:
+      213: 1871583519234843966
+    second: EvilCatSprites_77
+  - first:
+      213: -4692269223288597511
+    second: EvilCatSprites_78
+  - first:
+      213: 6683823050820011596
+    second: EvilCatSprites_79
+  - first:
+      213: -1885410692435312845
+    second: EvilCatSprites_80
+  - first:
+      213: -6194577046110059345
+    second: EvilCatSprites_81
+  - first:
+      213: -2755869224606422648
+    second: EvilCatSprites_82
+  - first:
+      213: 5384290998478749071
+    second: EvilCatSprites_83
+  - first:
+      213: -8615474027320445219
+    second: EvilCatSprites_84
+  - first:
+      213: -1333067227123931348
+    second: EvilCatSprites_85
+  - first:
+      213: 4082485762781869028
+    second: EvilCatSprites_86
+  - first:
+      213: 7802972005766297455
+    second: EvilCatSprites_87
+  - first:
+      213: -6743964487791526071
+    second: EvilCatSprites_88
+  - first:
+      213: -6825303504694966984
+    second: EvilCatSprites_89
+  - first:
+      213: -1852400529415490942
+    second: EvilCatSprites_90
+  - first:
+      213: -8162214540133123412
+    second: EvilCatSprites_91
+  - first:
+      213: 8166248576130090495
+    second: EvilCatSprites_92
+  - first:
+      213: 7007831709986837640
+    second: EvilCatSprites_93
+  - first:
+      213: 6759245014820321399
+    second: EvilCatSprites_94
+  - first:
+      213: 5696399283661045128
+    second: EvilCatSprites_95
+  - first:
+      213: 7166156486261642519
+    second: EvilCatSprites_96
+  - first:
+      213: 5315520244771254253
+    second: EvilCatSprites_97
+  - first:
+      213: 494992300242672083
+    second: EvilCatSprites_98
+  - first:
+      213: 8771524555014035124
+    second: EvilCatSprites_99
+  - first:
+      213: -914253262230462988
+    second: EvilCatSprites_100
+  - first:
+      213: 2468096791359870770
+    second: EvilCatSprites_101
+  - first:
+      213: -7643148119951788686
+    second: EvilCatSprites_102
+  - first:
+      213: -7207456347812307693
+    second: EvilCatSprites_103
+  - first:
+      213: 4632125695174316561
+    second: EvilCatSprites_104
+  - first:
+      213: 5648756145315551418
+    second: EvilCatSprites_105
+  - first:
+      213: 7654184717109609018
+    second: EvilCatSprites_106
+  - first:
+      213: -2116368551709201055
+    second: EvilCatSprites_107
+  - first:
+      213: -6882646988138746269
+    second: EvilCatSprites_108
+  - first:
+      213: -6627188127172908286
+    second: EvilCatSprites_109
+  - first:
+      213: -2177655755161281331
+    second: EvilCatSprites_110
+  - first:
+      213: 722597546842545669
+    second: EvilCatSprites_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EvilCatSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3df0598056a64710800000000000000
+      internalID: 1677210776073469243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f481c37159feb0800000000000000
+      internalID: -4685624379692485384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 479
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc3b05fd1595daf0800000000000000
+      internalID: -372227438290453263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 479
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3db1316c91d0bd0800000000000000
+      internalID: -2662443466191285343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9972507b5c153b2b0800000000000000
+      internalID: -5570018404506196071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a500731b8d242310800000000000000
+      internalID: 1379277461232027049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 479
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b15d9663bee5630800000000000000
+      internalID: 3917827344795245419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 479
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccec496d574293180800000000000000
+      internalID: -9135230280614490420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 479
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9075d4da275883a10800000000000000
+      internalID: 1889406771262215945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce777a3ad7e2346d0800000000000000
+      internalID: -3007509009001908244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c994f3aa0e14e70800000000000000
+      internalID: 9097799744075963469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44c60add994d1190800000000000000
+      internalID: -7990149221568822193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 447
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18788df75709340800000000000000
+      internalID: 4868520389141561836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 447
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d33fc29164d0acd0800000000000000
+      internalID: -2548803873551731755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 447
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc81f0b789016b0800000000000000
+      internalID: -5327590704877614205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 447
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c60d22db41e05f0800000000000000
+      internalID: -788670082177799149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 447
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf80b8e179d6d50800000000000000
+      internalID: 6732203175426194553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 447
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e7f215f689be0b0800000000000000
+      internalID: -5698293299636371912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc83b0a7bfccfb230800000000000000
+      internalID: 3656866802904545485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59abbe7371fc87c10800000000000000
+      internalID: 2051617328896653973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 319
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b8f70dec64def0800000000000000
+      internalID: -84322727716406826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9f46a8019aebe0800000000000000
+      internalID: -1447184863910192326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 319
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434e4939f0b03e700800000000000000
+      internalID: 568310139507237940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc822e61b8250990800000000000000
+      internalID: -7420480068500943669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 319
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3147cc834ac4e20800000000000000
+      internalID: 3336221987829978105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 319
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e96c7b8d171ea90800000000000000
+      internalID: -7286417546498630029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 319
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994c963c9f5abc50800000000000000
+      internalID: 6681758121693301142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 351
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd8d3f7fb9fe51d0800000000000000
+      internalID: -3359973671103001093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 319
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ded8f6e59183b0800000000000000
+      internalID: -5511959649674406972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 319
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8b43bcc899344c0800000000000000
+      internalID: -4304427988852360987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 319
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b177c16d1d1da7940800000000000000
+      internalID: 5294775011097999131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 319
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ce8dcf91460fe50800000000000000
+      internalID: 6841077896754818050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 319
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e367ad153d7a9a0800000000000000
+      internalID: -6221772011678056935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 319
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b335046f93e0d2540800000000000000
+      internalID: 4984656004676342587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1ab23edc79e960800000000000000
+      internalID: 7631768337331657999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019a7cb3419283640800000000000000
+      internalID: 5059839348229777680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe1f196f293deaf0800000000000000
+      internalID: -365573118957248777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e92e63a3e552d150800000000000000
+      internalID: 5895869298369243623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec4dcd53be794d20800000000000000
+      internalID: 3263278713844616416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23c0c47f8ddfab0800000000000000
+      internalID: -4972579856902769981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbce017757aa9b5f0800000000000000
+      internalID: -740373242240242499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a828969a54c32400800000000000000
+      internalID: 298297893689239712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 287
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f039ae61fad0f0800000000000000
+      internalID: -1091294502096669476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe9f186ea613c570800000000000000
+      internalID: 8485651061223169785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_44
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b520a44d98f73e6b0800000000000000
+      internalID: -5268226909144481189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7f3c2d78a897430800000000000000
+      internalID: 3781205678115518450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 255
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321723b016bd3f590800000000000000
+      internalID: -7641522932871433949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53acdd4971312710800000000000000
+      internalID: 1666667734170903387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 255
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7eb73a5377a2b40800000000000000
+      internalID: 5416272574126221263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 255
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b8c9af631c7e920800000000000000
+      internalID: 3019594517052164905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 255
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1d760213ae0d400800000000000000
+      internalID: 347034668025500159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 255
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8efb5d217c22040800000000000000
+      internalID: 4621475051345012960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 255
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3172840fcdb3043a0800000000000000
+      internalID: -6683276026907711725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 255
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e830fc475fdc26390800000000000000
+      internalID: -7826466748306095218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 255
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db22fb77697e91120800000000000000
+      internalID: 2385192111109513917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c38a0b8c5c4d38b0800000000000000
+      internalID: -5170892836798037052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7a411f83a4f1210800000000000000
+      internalID: 1305844025384019946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d97c0376a33a60800000000000000
+      internalID: 7652643204893364816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476b6e92356012140800000000000000
+      internalID: 4693039240951805556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40008627667b02030800000000000000
+      internalID: 3467973363709247492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 223
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619708241813770a0800000000000000
+      internalID: -6883979074176255722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4732a19fdb21760800000000000000
+      internalID: 7427207613070406882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc053d00923e69b0800000000000000
+      internalID: -5085071334976451334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab5866215ab2e70800000000000000
+      internalID: 9091541771225512597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f966637539bf6640800000000000000
+      internalID: 5075478944290335222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eacc589b4d4dc80800000000000000
+      internalID: -8298774320058159513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814bb388a2df36260800000000000000
+      internalID: 7089788597527360536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd1d08f5649e5400800000000000000
+      internalID: 314852189636730301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1825672011249f250800000000000000
+      internalID: 5978882621134230145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b760cd589a5e5a0800000000000000
+      internalID: -6492596895397545060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adaf4b9860d0ee40800000000000000
+      internalID: 5683771877442432421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_71
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc122b46018ae1650800000000000000
+      internalID: 6205582124925460943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6549e63b4eac4bd00800000000000000
+      internalID: 987637301912704086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9e8bdd01bee060800000000000000
+      internalID: 6984714745174466048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f763933f8458000800000000000000
+      internalID: 37516381376642966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed140e45e33bc3690800000000000000
+      internalID: -7621019389124394530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001924a807e76380800000000000000
+      internalID: -8977953307839885303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35e77f6b4339f910800000000000000
+      internalID: 1871583519234843966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_78
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3926b8006b1eeb0800000000000000
+      internalID: -4692269223288597511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46c1bdf6a5b1cc50800000000000000
+      internalID: 6683823050820011596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f7bade6fca5d5e0800000000000000
+      internalID: -1885410692435312845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa442d03ff0780aa0800000000000000
+      internalID: -6194577046110059345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88927eb9a8f21c9d0800000000000000
+      internalID: -2755869224606422648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8db8abc228d8ba40800000000000000
+      internalID: 5384290998478749071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 95
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f5f5d400bf6880800000000000000
+      internalID: -8615474027320445219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2720997b6eff7de0800000000000000
+      internalID: -1333067227123931348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3f33bdb27e7a830800000000000000
+      internalID: 4082485762781869028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_87
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67740482b9b94c60800000000000000
+      internalID: 7802972005766297455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 95
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f36578700a862a0800000000000000
+      internalID: -6743964487791526071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_89
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 95
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8358d6edf96a741a0800000000000000
+      internalID: -6825303504694966984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 95
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282b17e6883fa46e0800000000000000
+      internalID: -1852400529415490942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa36dafe1df9be80800000000000000
+      internalID: -8162214540133123412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 63
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff506c730d7545170800000000000000
+      internalID: 8166248576130090495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_93
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884db77afc1d04160800000000000000
+      internalID: 7007831709986837640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778f13a6789adcd50800000000000000
+      internalID: 6759245014820321399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88df769b7fcad0f40800000000000000
+      internalID: 5696399283661045128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7159c783b5d437360800000000000000
+      internalID: 7166156486261642519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 63
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defecf1ff7584c940800000000000000
+      internalID: 5315520244771254253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_98
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 63
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9948edfd09ed600800000000000000
+      internalID: 494992300242672083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_99
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b65a38fb17bab970800000000000000
+      internalID: 8771524555014035124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 63
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdd20e708bef43f0800000000000000
+      internalID: -914253262230462988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_101
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 63
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237594884f0704220800000000000000
+      internalID: 2468096791359870770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_102
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 63
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753490b7451ee590800000000000000
+      internalID: -7643148119951788686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_103
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 63
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d538e63a8f9fb90800000000000000
+      internalID: -7207456347812307693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_104
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 63
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11213d717cd984040800000000000000
+      internalID: 4632125695174316561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_105
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 63
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8965829c9646e40800000000000000
+      internalID: 5648756145315551418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ca845270293a60800000000000000
+      internalID: 7654184717109609018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da095e30621a2e0800000000000000
+      internalID: -2116368551709201055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ee395b70deb70a0800000000000000
+      internalID: -6882646988138746269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b2c2cb28f7704a0800000000000000
+      internalID: -6627188127172908286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd68ed0a967c1e0800000000000000
+      internalID: -2177655755161281331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilCatSprites_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5e1fe3ae270a00800000000000000
+      internalID: 722597546842545669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EvilCatSprites_0: 1677210776073469243
+      EvilCatSprites_1: -4685624379692485384
+      EvilCatSprites_10: 9097799744075963469
+      EvilCatSprites_100: -914253262230462988
+      EvilCatSprites_101: 2468096791359870770
+      EvilCatSprites_102: -7643148119951788686
+      EvilCatSprites_103: -7207456347812307693
+      EvilCatSprites_104: 4632125695174316561
+      EvilCatSprites_105: 5648756145315551418
+      EvilCatSprites_106: 7654184717109609018
+      EvilCatSprites_107: -2116368551709201055
+      EvilCatSprites_108: -6882646988138746269
+      EvilCatSprites_109: -6627188127172908286
+      EvilCatSprites_11: -7990149221568822193
+      EvilCatSprites_110: -2177655755161281331
+      EvilCatSprites_111: 722597546842545669
+      EvilCatSprites_12: 4868520389141561836
+      EvilCatSprites_13: -2548803873551731755
+      EvilCatSprites_14: -5327590704877614205
+      EvilCatSprites_15: -788670082177799149
+      EvilCatSprites_16: 6732203175426194553
+      EvilCatSprites_17: -5698293299636371912
+      EvilCatSprites_18: 3656866802904545485
+      EvilCatSprites_19: 2051617328896653973
+      EvilCatSprites_2: -372227438290453263
+      EvilCatSprites_20: -84322727716406826
+      EvilCatSprites_21: -1447184863910192326
+      EvilCatSprites_22: 568310139507237940
+      EvilCatSprites_23: -7420480068500943669
+      EvilCatSprites_24: 3336221987829978105
+      EvilCatSprites_25: -7286417546498630029
+      EvilCatSprites_26: 6681758121693301142
+      EvilCatSprites_27: -3359973671103001093
+      EvilCatSprites_28: -5511959649674406972
+      EvilCatSprites_29: -4304427988852360987
+      EvilCatSprites_3: -2662443466191285343
+      EvilCatSprites_30: 5294775011097999131
+      EvilCatSprites_31: 6841077896754818050
+      EvilCatSprites_32: -6221772011678056935
+      EvilCatSprites_33: 4984656004676342587
+      EvilCatSprites_34: 7631768337331657999
+      EvilCatSprites_35: 5059839348229777680
+      EvilCatSprites_36: -365573118957248777
+      EvilCatSprites_37: 5895869298369243623
+      EvilCatSprites_38: 3263278713844616416
+      EvilCatSprites_39: -4972579856902769981
+      EvilCatSprites_4: -5570018404506196071
+      EvilCatSprites_40: -740373242240242499
+      EvilCatSprites_41: 298297893689239712
+      EvilCatSprites_42: -1091294502096669476
+      EvilCatSprites_43: 8485651061223169785
+      EvilCatSprites_44: -5268226909144481189
+      EvilCatSprites_45: 3781205678115518450
+      EvilCatSprites_46: -7641522932871433949
+      EvilCatSprites_47: 1666667734170903387
+      EvilCatSprites_48: 5416272574126221263
+      EvilCatSprites_49: 3019594517052164905
+      EvilCatSprites_5: 1379277461232027049
+      EvilCatSprites_50: 347034668025500159
+      EvilCatSprites_51: 4621475051345012960
+      EvilCatSprites_52: -6683276026907711725
+      EvilCatSprites_53: -7826466748306095218
+      EvilCatSprites_54: 2385192111109513917
+      EvilCatSprites_55: -5170892836798037052
+      EvilCatSprites_56: 1305844025384019946
+      EvilCatSprites_57: 7652643204893364816
+      EvilCatSprites_58: 4693039240951805556
+      EvilCatSprites_59: 3467973363709247492
+      EvilCatSprites_6: 3917827344795245419
+      EvilCatSprites_60: -6883979074176255722
+      EvilCatSprites_61: 7427207613070406882
+      EvilCatSprites_62: -5085071334976451334
+      EvilCatSprites_63: 9091541771225512597
+      EvilCatSprites_64: 5075478944290335222
+      EvilCatSprites_65: -8298774320058159513
+      EvilCatSprites_66: 7089788597527360536
+      EvilCatSprites_67: 314852189636730301
+      EvilCatSprites_68: 5978882621134230145
+      EvilCatSprites_69: -6492596895397545060
+      EvilCatSprites_7: -9135230280614490420
+      EvilCatSprites_70: 5683771877442432421
+      EvilCatSprites_71: 6205582124925460943
+      EvilCatSprites_72: 987637301912704086
+      EvilCatSprites_73: 6984714745174466048
+      EvilCatSprites_74: 37516381376642966
+      EvilCatSprites_75: -7621019389124394530
+      EvilCatSprites_76: -8977953307839885303
+      EvilCatSprites_77: 1871583519234843966
+      EvilCatSprites_78: -4692269223288597511
+      EvilCatSprites_79: 6683823050820011596
+      EvilCatSprites_8: 1889406771262215945
+      EvilCatSprites_80: -1885410692435312845
+      EvilCatSprites_81: -6194577046110059345
+      EvilCatSprites_82: -2755869224606422648
+      EvilCatSprites_83: 5384290998478749071
+      EvilCatSprites_84: -8615474027320445219
+      EvilCatSprites_85: -1333067227123931348
+      EvilCatSprites_86: 4082485762781869028
+      EvilCatSprites_87: 7802972005766297455
+      EvilCatSprites_88: -6743964487791526071
+      EvilCatSprites_89: -6825303504694966984
+      EvilCatSprites_9: -3007509009001908244
+      EvilCatSprites_90: -1852400529415490942
+      EvilCatSprites_91: -8162214540133123412
+      EvilCatSprites_92: 8166248576130090495
+      EvilCatSprites_93: 7007831709986837640
+      EvilCatSprites_94: 6759245014820321399
+      EvilCatSprites_95: 5696399283661045128
+      EvilCatSprites_96: 7166156486261642519
+      EvilCatSprites_97: 5315520244771254253
+      EvilCatSprites_98: 494992300242672083
+      EvilCatSprites_99: 8771524555014035124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4082 @@
+fileFormatVersion: 2
+guid: 6f25903d4d378734981e301eb4a6d4ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7972275081862164405
+    second: Catroompaid_0
+  - first:
+      213: -5404933315960225578
+    second: Catroompaid_1
+  - first:
+      213: -4284367788268487420
+    second: Catroompaid_2
+  - first:
+      213: -4771977263375327353
+    second: Catroompaid_3
+  - first:
+      213: 7444166703631528658
+    second: Catroompaid_4
+  - first:
+      213: -4826604573996224272
+    second: Catroompaid_5
+  - first:
+      213: -964815141148248267
+    second: Catroompaid_6
+  - first:
+      213: 3012899355539517565
+    second: Catroompaid_7
+  - first:
+      213: -7003525661264496962
+    second: Catroompaid_8
+  - first:
+      213: -4557012337576629688
+    second: Catroompaid_9
+  - first:
+      213: 16933818181993861
+    second: Catroompaid_10
+  - first:
+      213: 3272283277582114329
+    second: Catroompaid_11
+  - first:
+      213: -2334704015016416161
+    second: Catroompaid_12
+  - first:
+      213: -8223762735641663093
+    second: Catroompaid_13
+  - first:
+      213: 4278763999789516756
+    second: Catroompaid_14
+  - first:
+      213: -868693191370838838
+    second: Catroompaid_15
+  - first:
+      213: -4197889008708451738
+    second: Catroompaid_16
+  - first:
+      213: -8647554330298066150
+    second: Catroompaid_17
+  - first:
+      213: -475441366220406110
+    second: Catroompaid_18
+  - first:
+      213: -8365092380902320646
+    second: Catroompaid_19
+  - first:
+      213: -8402492688921589699
+    second: Catroompaid_20
+  - first:
+      213: 9112489194491959122
+    second: Catroompaid_21
+  - first:
+      213: 3783990931950898587
+    second: Catroompaid_22
+  - first:
+      213: -2091636155584461592
+    second: Catroompaid_23
+  - first:
+      213: 1468394280408291465
+    second: Catroompaid_24
+  - first:
+      213: -745903184370395344
+    second: Catroompaid_25
+  - first:
+      213: -1374165711683595490
+    second: Catroompaid_26
+  - first:
+      213: 5680255123784005988
+    second: Catroompaid_27
+  - first:
+      213: 7229873064643238246
+    second: Catroompaid_28
+  - first:
+      213: -5488837845842164454
+    second: Catroompaid_29
+  - first:
+      213: 2140556155867160400
+    second: Catroompaid_30
+  - first:
+      213: -1954491419979993060
+    second: Catroompaid_31
+  - first:
+      213: 2960623950545893505
+    second: Catroompaid_32
+  - first:
+      213: -5478852564217187418
+    second: Catroompaid_33
+  - first:
+      213: -3380987830484976002
+    second: Catroompaid_34
+  - first:
+      213: 5205288275392730541
+    second: Catroompaid_35
+  - first:
+      213: -4518791384822718244
+    second: Catroompaid_36
+  - first:
+      213: -8870880528529814980
+    second: Catroompaid_37
+  - first:
+      213: -8933318934342068908
+    second: Catroompaid_38
+  - first:
+      213: 4808019765765079158
+    second: Catroompaid_39
+  - first:
+      213: 2204767005538426621
+    second: Catroompaid_40
+  - first:
+      213: -8514437642389275067
+    second: Catroompaid_41
+  - first:
+      213: -3129530880286057806
+    second: Catroompaid_42
+  - first:
+      213: 3442077913464030839
+    second: Catroompaid_43
+  - first:
+      213: -4645512186013901112
+    second: Catroompaid_44
+  - first:
+      213: 5530109510866264659
+    second: Catroompaid_45
+  - first:
+      213: 703697999155319278
+    second: Catroompaid_46
+  - first:
+      213: 3916829089145082036
+    second: Catroompaid_47
+  - first:
+      213: -724542213117548058
+    second: Catroompaid_48
+  - first:
+      213: 5310519179356257419
+    second: Catroompaid_49
+  - first:
+      213: 2400913110142295866
+    second: Catroompaid_50
+  - first:
+      213: 6843191270784195292
+    second: Catroompaid_51
+  - first:
+      213: 8179598717565539134
+    second: Catroompaid_52
+  - first:
+      213: 4532064653636165188
+    second: Catroompaid_53
+  - first:
+      213: 7143943234742340942
+    second: Catroompaid_54
+  - first:
+      213: -4485119474051210245
+    second: Catroompaid_55
+  - first:
+      213: -6749286498786941374
+    second: Catroompaid_56
+  - first:
+      213: -2292162021954226989
+    second: Catroompaid_57
+  - first:
+      213: -5164755359909699410
+    second: Catroompaid_58
+  - first:
+      213: 8621209470547405870
+    second: Catroompaid_59
+  - first:
+      213: -1830892499500674048
+    second: Catroompaid_60
+  - first:
+      213: -4217925249487207127
+    second: Catroompaid_61
+  - first:
+      213: 1719226029435751617
+    second: Catroompaid_62
+  - first:
+      213: -6598870231624103945
+    second: Catroompaid_63
+  - first:
+      213: -395007155020846787
+    second: Catroompaid_64
+  - first:
+      213: -910500649634740499
+    second: Catroompaid_65
+  - first:
+      213: -8731550332267038549
+    second: Catroompaid_66
+  - first:
+      213: 7058900229377875475
+    second: Catroompaid_67
+  - first:
+      213: -8910552838518960734
+    second: Catroompaid_68
+  - first:
+      213: 6221330227187137942
+    second: Catroompaid_69
+  - first:
+      213: 8574197006061744668
+    second: Catroompaid_70
+  - first:
+      213: 841552616344319421
+    second: Catroompaid_71
+  - first:
+      213: -9177072430901148783
+    second: Catroompaid_72
+  - first:
+      213: -3116540550969373317
+    second: Catroompaid_73
+  - first:
+      213: -5447560094850128377
+    second: Catroompaid_74
+  - first:
+      213: -303989877064585734
+    second: Catroompaid_75
+  - first:
+      213: 4489863172653647383
+    second: Catroompaid_76
+  - first:
+      213: -5779646069560324019
+    second: Catroompaid_77
+  - first:
+      213: 2718487343574419898
+    second: Catroompaid_78
+  - first:
+      213: 2343265993050912378
+    second: Catroompaid_79
+  - first:
+      213: 7970995268549704620
+    second: Catroompaid_80
+  - first:
+      213: -7746236745577261544
+    second: Catroompaid_81
+  - first:
+      213: 8721795739787721895
+    second: Catroompaid_82
+  - first:
+      213: 4071452459192778796
+    second: Catroompaid_83
+  - first:
+      213: 5184916595110236469
+    second: Catroompaid_84
+  - first:
+      213: -2889753696572800874
+    second: Catroompaid_85
+  - first:
+      213: 6996943901517556149
+    second: Catroompaid_86
+  - first:
+      213: 6453962939583315327
+    second: Catroompaid_87
+  - first:
+      213: 1617276698375595934
+    second: Catroompaid_88
+  - first:
+      213: 2696440714243650175
+    second: Catroompaid_89
+  - first:
+      213: -1013714578419780677
+    second: Catroompaid_90
+  - first:
+      213: 2978498751229451810
+    second: Catroompaid_91
+  - first:
+      213: -4130564709468543946
+    second: Catroompaid_92
+  - first:
+      213: -8738907352114723740
+    second: Catroompaid_93
+  - first:
+      213: -1968280122144293095
+    second: Catroompaid_94
+  - first:
+      213: -2215964450823657175
+    second: Catroompaid_95
+  - first:
+      213: 7412610977166963618
+    second: Catroompaid_96
+  - first:
+      213: 2935389295411563190
+    second: Catroompaid_97
+  - first:
+      213: -359264251802632739
+    second: Catroompaid_98
+  - first:
+      213: 4505074894051909877
+    second: Catroompaid_99
+  - first:
+      213: -8345355733828469991
+    second: Catroompaid_100
+  - first:
+      213: -5251613085349691460
+    second: Catroompaid_101
+  - first:
+      213: -8514103916881969397
+    second: Catroompaid_102
+  - first:
+      213: -3423150098435007916
+    second: Catroompaid_103
+  - first:
+      213: -4691362621128907085
+    second: Catroompaid_104
+  - first:
+      213: 8626103977229361518
+    second: Catroompaid_105
+  - first:
+      213: -238209305057564051
+    second: Catroompaid_106
+  - first:
+      213: 5748498350055886032
+    second: Catroompaid_107
+  - first:
+      213: 2739419277881564828
+    second: Catroompaid_108
+  - first:
+      213: -3442438918832471570
+    second: Catroompaid_109
+  - first:
+      213: -6312328244049394607
+    second: Catroompaid_110
+  - first:
+      213: -3351213981797816141
+    second: Catroompaid_111
+  - first:
+      213: 420588714173733560
+    second: Catroompaid_112
+  - first:
+      213: 7570907809832755734
+    second: Catroompaid_113
+  - first:
+      213: 643565226120367797
+    second: Catroompaid_114
+  - first:
+      213: 200892806909315549
+    second: Catroompaid_115
+  - first:
+      213: -7735981746129935990
+    second: Catroompaid_116
+  - first:
+      213: -164286050636124344
+    second: Catroompaid_117
+  - first:
+      213: 879132727018772778
+    second: Catroompaid_118
+  - first:
+      213: 956210211905326434
+    second: Catroompaid_119
+  - first:
+      213: 498531830334822289
+    second: Catroompaid_120
+  - first:
+      213: -7005234553432032959
+    second: Catroompaid_121
+  - first:
+      213: 7933032130511715178
+    second: Catroompaid_122
+  - first:
+      213: -1242416060328664907
+    second: Catroompaid_123
+  - first:
+      213: 3947078999921328528
+    second: Catroompaid_124
+  - first:
+      213: -2148404177744025083
+    second: Catroompaid_125
+  - first:
+      213: 522037063723912451
+    second: Catroompaid_126
+  - first:
+      213: -3011333678027739649
+    second: Catroompaid_127
+  - first:
+      213: 4572003125249493212
+    second: Catroompaid_128
+  - first:
+      213: -7898335426083286686
+    second: Catroompaid_129
+  - first:
+      213: 8234188391382048620
+    second: Catroompaid_130
+  - first:
+      213: 1033388486567095803
+    second: Catroompaid_131
+  - first:
+      213: 7543036377174097041
+    second: Catroompaid_132
+  - first:
+      213: -3836229874864163375
+    second: Catroompaid_133
+  - first:
+      213: 2197346593863716981
+    second: Catroompaid_134
+  - first:
+      213: 143897374389090845
+    second: Catroompaid_135
+  - first:
+      213: -3377203921122992366
+    second: Catroompaid_136
+  - first:
+      213: 3141678620920790421
+    second: Catroompaid_137
+  - first:
+      213: 2109693536017729197
+    second: Catroompaid_138
+  - first:
+      213: 3605731843248027816
+    second: Catroompaid_139
+  - first:
+      213: -2845267336453876907
+    second: Catroompaid_140
+  - first:
+      213: -3893468027355791021
+    second: Catroompaid_141
+  - first:
+      213: 5434348107052866170
+    second: Catroompaid_142
+  - first:
+      213: -6334714178614223238
+    second: Catroompaid_143
+  - first:
+      213: 4055667147459753034
+    second: Catroompaid_144
+  - first:
+      213: -8144007609743655512
+    second: Catroompaid_145
+  - first:
+      213: -220208316442585328
+    second: Catroompaid_146
+  - first:
+      213: 292150190095640786
+    second: Catroompaid_147
+  - first:
+      213: 3617724985301480901
+    second: Catroompaid_148
+  - first:
+      213: 8970684936469305806
+    second: Catroompaid_149
+  - first:
+      213: 520975225962282949
+    second: Catroompaid_150
+  - first:
+      213: -4130995036196822722
+    second: Catroompaid_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Catroompaid_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 927
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4058ed4d0acc5190800000000000000
+      internalID: -7972275081862164405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 927
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0448329c1ddf4b0800000000000000
+      internalID: -5404933315960225578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 896
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d7125323eda84c0800000000000000
+      internalID: -4284367788268487420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 897
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fd54446f786cdb0800000000000000
+      internalID: -4771977263375327353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 897
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d27fb21d2efe4760800000000000000
+      internalID: 7444166703631528658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 997
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0fdaf56b4740db0800000000000000
+      internalID: -4826604573996224272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 997
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537b0fdadb94c92f0800000000000000
+      internalID: -964815141148248267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 996
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70bfe63008ffc920800000000000000
+      internalID: 3012899355539517565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 996
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb63ff0748a7ece90800000000000000
+      internalID: -7003525661264496962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 832
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a2cad4c6d32c0c0800000000000000
+      internalID: -4557012337576629688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 832
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585cd69c7392c3000800000000000000
+      internalID: 16933818181993861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 833
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e9bbcbd4c796d20800000000000000
+      internalID: 3272283277582114329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_12
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 897
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca4417117799fd0800000000000000
+      internalID: -2334704015016416161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_13
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 896
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89ebf00d535fdd80800000000000000
+      internalID: -8223762735641663093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 964
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d70f2d1039316b30800000000000000
+      internalID: 4278763999789516756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 965
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc6a8d1528c1f3f0800000000000000
+      internalID: -868693191370838838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 963
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6628a6d103a1eb5c0800000000000000
+      internalID: -4197889008708451738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 964
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b51be3727bdf780800000000000000
+      internalID: -8647554330298066150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 931
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a208eea894e669f0800000000000000
+      internalID: -475441366220406110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 931
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af59dfabcc839eb80800000000000000
+      internalID: -8365092380902320646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 930
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d380301fa69546b80800000000000000
+      internalID: -8402492688921589699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_21
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 930
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257574174a0167e70800000000000000
+      internalID: 9112489194491959122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 831
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d8b3444bf638430800000000000000
+      internalID: 3783990931950898587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 831
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4460b9ff309f2e0800000000000000
+      internalID: -2091636155584461592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 898
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98893f171d8c06410800000000000000
+      internalID: 1468394280408291465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 899
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03715ca710506a5f0800000000000000
+      internalID: -745903184370395344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 897
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13d39cd09bfdece0800000000000000
+      internalID: -1374165711683595490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 898
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469fcb690f154de40800000000000000
+      internalID: 5680255123784005988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 803
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669993d2f3ba55460800000000000000
+      internalID: 7229873064643238246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 803
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a158bd07f0bb3d3b0800000000000000
+      internalID: -5488837845842164454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 869
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fdc3c8b78c4bd10800000000000000
+      internalID: 2140556155867160400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 869
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c103b8ba86040e4e0800000000000000
+      internalID: -1954491419979993060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_32
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 868
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1883dc50ccf361920800000000000000
+      internalID: 2960623950545893505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_33
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 868
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b81dfe9437f3b0800000000000000
+      internalID: -5478852564217187418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_34
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 771
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e360e3b715411d0800000000000000
+      internalID: -3380987830484976002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_35
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 770
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51a409b16ec3840800000000000000
+      internalID: 5205288275392730541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 836
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0eb855d270a41c0800000000000000
+      internalID: -4518791384822718244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_37
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 837
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a0d04c82d44e480800000000000000
+      internalID: -8870880528529814980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_38
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 835
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455154d82c9760480800000000000000
+      internalID: -8933318934342068908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 836
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6700c73c08489b240800000000000000
+      internalID: 4808019765765079158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 801
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe9e9109e7e89e10800000000000000
+      internalID: 2204767005538426621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 801
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e3c2f5314a6d980800000000000000
+      internalID: -8514437642389275067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 777
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba1feece3ca194d0800000000000000
+      internalID: -3129530880286057806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_43
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 776
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776cd3910a7b4cf20800000000000000
+      internalID: 3442077913464030839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 777
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce94e0a743d78fb0800000000000000
+      internalID: -4645512186013901112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_45
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 738
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3526134ec45eebc40800000000000000
+      internalID: 5530109510866264659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 734
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee15ec41a9904c900800000000000000
+      internalID: 703697999155319278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 735
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0d868ed4f5b5630800000000000000
+      internalID: 3916829089145082036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 768
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e96a5a22b8e1f5f0800000000000000
+      internalID: -724542213117548058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 768
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cbd6aae01c2b940800000000000000
+      internalID: 5310519179356257419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 705
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f1c9ac0c1c15120800000000000000
+      internalID: 2400913110142295866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_51
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 705
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda55293436e7fe50800000000000000
+      internalID: 6843191270784195292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_52
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 640
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e331cbd32b5c38170800000000000000
+      internalID: 8179598717565539134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 606
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e56136ac025ee30800000000000000
+      internalID: 4532064653636165188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 736
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d4f529582642360800000000000000
+      internalID: 7143943234742340942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 736
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3adfdf997a1c1c0800000000000000
+      internalID: -4485119474051210245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_56
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 713
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e67840b7b552a0800000000000000
+      internalID: -6749286498786941374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_57
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 712
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4f6c119ca9030e0800000000000000
+      internalID: -2292162021954226989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_58
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 713
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0a9cc3d5a1358b0800000000000000
+      internalID: -5164755359909699410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 616
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c263a1650b4a770800000000000000
+      internalID: 8621209470547405870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 615
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004d551e8fc5796e0800000000000000
+      internalID: -1830892499500674048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_61
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 615
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250a27455be675c0800000000000000
+      internalID: -4217925249487207127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 639
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc8f1507faebd710800000000000000
+      internalID: 1719226029435751617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_63
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 671
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f745259c7a1c64a0800000000000000
+      internalID: -6598870231624103945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_64
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 671
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ae39d517a48af0800000000000000
+      internalID: -395007155020846787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_65
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 639
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de642c2bb704d53f0800000000000000
+      internalID: -910500649634740499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_66
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 671
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba877ca0c3d43d680800000000000000
+      internalID: -8731550332267038549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_67
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 639
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eddf4eb5046f160800000000000000
+      internalID: 7058900229377875475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_68
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 578
+        width: 95
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8abb476b575480800000000000000
+      internalID: -8910552838518960734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_69
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 583
+        width: 95
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69db3ed21ea965650800000000000000
+      internalID: 6221330227187137942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_70
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 585
+        width: 95
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12378cbfbaadf670800000000000000
+      internalID: 8574197006061744668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 478
+        width: 102
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f00555abcdab00800000000000000
+      internalID: 841552616344319421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_72
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 607
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1934b1e0f3d74a080800000000000000
+      internalID: -9177072430901148783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 607
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dce5b81e2dfb4d0800000000000000
+      internalID: -3116540550969373317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_74
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 607
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7066dd5c4f06664b0800000000000000
+      internalID: -5447560094850128377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_75
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 480
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd204241d208cbf0800000000000000
+      internalID: -303989877064585734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_76
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 494
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716012864c23f4e30800000000000000
+      internalID: 4489863172653647383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 512
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40df5885829acfa0800000000000000
+      internalID: -5779646069560324019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_78
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 548
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab90628f5d10ab520800000000000000
+      internalID: 2718487343574419898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_79
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 548
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a767d0a6104f48020800000000000000
+      internalID: 2343265993050912378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_80
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 548
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab7930f6f9ae9e60800000000000000
+      internalID: 7970995268549704620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_81
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 548
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8161ac1a8b6df7490800000000000000
+      internalID: -7746236745577261544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_82
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 418
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acff89e30b0a0970800000000000000
+      internalID: 8721795739787721895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_83
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 483
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20831ea074b08830800000000000000
+      internalID: 4071452459192778796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_84
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 483
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531d2912c2684f740800000000000000
+      internalID: 5184916595110236469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_85
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 483
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6900863d25885e7d0800000000000000
+      internalID: -2889753696572800874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_86
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 483
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b92a4338632a1160800000000000000
+      internalID: 6996943901517556149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 447
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d36675915119950800000000000000
+      internalID: 6453962939583315327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_88
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 447
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a136a698b17610800000000000000
+      internalID: 1617276698375595934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_89
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 447
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72b4621b8eab6520800000000000000
+      internalID: 2696440714243650175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_90
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 447
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb377a936ff8ee1f0800000000000000
+      internalID: -1013714578419780677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_91
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 447
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed9fe55d0c55920800000000000000
+      internalID: 2978498751229451810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_92
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 351
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ec5a08494da6c0800000000000000
+      internalID: -4130564709468543946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_93
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 363
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640720601a29b680800000000000000
+      internalID: -8738907352114723740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 420
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f702548a34fa4e0800000000000000
+      internalID: -1968280122144293095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_95
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 420
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92923c992105f31e0800000000000000
+      internalID: -2215964450823657175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_96
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 420
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b238f862eed660800000000000000
+      internalID: 7412610977166963618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_97
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 420
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba8d7603099cb820800000000000000
+      internalID: 2935389295411563190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_98
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 426
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddbec20113a30bf0800000000000000
+      internalID: -359264251802632739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_99
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 415
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ae7a4fbd358e30800000000000000
+      internalID: 4505074894051909877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_100
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 389
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b72e8fc275f2c80800000000000000
+      internalID: -8345355733828469991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_101
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 389
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf30fd19b58e17b0800000000000000
+      internalID: -5251613085349691460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_102
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 365
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ffc75e893d7d980800000000000000
+      internalID: -8514103916881969397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_103
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 365
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a10f14f178e70d0800000000000000
+      internalID: -3423150098435007916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_104
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 393
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e01f4d8ee4eeb0800000000000000
+      internalID: -4691362621128907085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_105
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 393
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61275e3dd316b770800000000000000
+      internalID: 8626103977229361518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_106
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 367
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ae9dd26e5b1bcf0800000000000000
+      internalID: -238209305057564051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_107
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 394
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc0003eac4c6cf40800000000000000
+      internalID: 5748498350055886032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_108
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 391
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9edcf4b15f540620800000000000000
+      internalID: 2739419277881564828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_109
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 391
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1c20aca000a30d0800000000000000
+      internalID: -3442438918832471570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_110
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 391
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15445cbf7ea1668a0800000000000000
+      internalID: -6312328244049394607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_111
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 391
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b86e9893a81e71d0800000000000000
+      internalID: -3351213981797816141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_112
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 352
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba1dd8053b36d500800000000000000
+      internalID: 420588714173733560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_113
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 352
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612ef486a84411960800000000000000
+      internalID: 7570907809832755734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_114
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 352
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bec2b4d9276ee800800000000000000
+      internalID: 643565226120367797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_115
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 352
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9c2c981f6b9c200800000000000000
+      internalID: 200892806909315549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_116
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 352
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81e401c69544a490800000000000000
+      internalID: -7735981746129935990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_117
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 359
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f284615b658bdf0800000000000000
+      internalID: -164286050636124344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_118
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 358
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29df50be8e433c00800000000000000
+      internalID: 879132727018772778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_119
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 361
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dc73b1f14254d00800000000000000
+      internalID: 956210211905326434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_120
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 361
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1971550fe042be600800000000000000
+      internalID: 498531830334822289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_121
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 362
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149346af94868ce90800000000000000
+      internalID: -7005234553432032959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_122
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b39e211bac71e60800000000000000
+      internalID: 7933032130511715178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_123
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0aedcfc2d02cee0800000000000000
+      internalID: -1242416060328664907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_124
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09107ba1077d6c630800000000000000
+      internalID: 3947078999921328528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_125
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a2a9778c55f22e0800000000000000
+      internalID: -2148404177744025083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_126
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 223
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d0ade81f5ae3700800000000000000
+      internalID: 522037063723912451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_127
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 230
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd6cfc79f79536d0800000000000000
+      internalID: -3011333678027739649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_128
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 302
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8c8707e94037f30800000000000000
+      internalID: 4572003125249493212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_129
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 300
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2611c63f6c9736290800000000000000
+      internalID: -7898335426083286686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_130
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 300
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fd8f127b6b54270800000000000000
+      internalID: 8234188391382048620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_131
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 329
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd6fc87a55575e00800000000000000
+      internalID: 1033388486567095803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_132
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 329
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cbf4dce9f3ea860800000000000000
+      internalID: 7543036377174097041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_133
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 257
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5faf70149f2cac0800000000000000
+      internalID: -3836229874864163375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_134
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 257
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57059a7c51b8e7e10800000000000000
+      internalID: 2197346593863716981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_135
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 256
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ab29c46e93ff100800000000000000
+      internalID: 143897374389090845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_136
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 257
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f586b4de2c121d0800000000000000
+      internalID: -3377203921122992366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_137
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 257
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d3c667f0c799b20800000000000000
+      internalID: 3141678620920790421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_138
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 256
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da64647e713274d10800000000000000
+      internalID: 2109693536017729197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_139
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 296
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8fc18e1022a0230800000000000000
+      internalID: 3605731843248027816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_140
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 296
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55315afae649388d0800000000000000
+      internalID: -2845267336453876907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_141
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 240
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3510e15257f97f9c0800000000000000
+      internalID: -3893468027355791021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_142
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 237
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ad3ba9fceaa6b40800000000000000
+      internalID: 5434348107052866170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_143
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 237
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e911e64039618a0800000000000000
+      internalID: -6334714178614223238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_144
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 263
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a447f8368cf984830800000000000000
+      internalID: 4055667147459753034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_145
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 263
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adb62d4a3caafe80800000000000000
+      internalID: -8144007609743655512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_146
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0175ad1f3b9a1fcf0800000000000000
+      internalID: -220208316442585328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_147
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 174
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a6bdcc0ded0400800000000000000
+      internalID: 292150190095640786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_148
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 172
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c533f3e4bdb43230800000000000000
+      internalID: 3617724985301480901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_149
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 206
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec95336cb664e7c70800000000000000
+      internalID: 8970684936469305806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_150
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 112
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfb2403530ea3700800000000000000
+      internalID: 520975225962282949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catroompaid_151
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 110
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31269ac6e1cba6c0800000000000000
+      internalID: -4130995036196822722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Catroompaid_0: -7972275081862164405
+      Catroompaid_1: -5404933315960225578
+      Catroompaid_10: 16933818181993861
+      Catroompaid_100: -8345355733828469991
+      Catroompaid_101: -5251613085349691460
+      Catroompaid_102: -8514103916881969397
+      Catroompaid_103: -3423150098435007916
+      Catroompaid_104: -4691362621128907085
+      Catroompaid_105: 8626103977229361518
+      Catroompaid_106: -238209305057564051
+      Catroompaid_107: 5748498350055886032
+      Catroompaid_108: 2739419277881564828
+      Catroompaid_109: -3442438918832471570
+      Catroompaid_11: 3272283277582114329
+      Catroompaid_110: -6312328244049394607
+      Catroompaid_111: -3351213981797816141
+      Catroompaid_112: 420588714173733560
+      Catroompaid_113: 7570907809832755734
+      Catroompaid_114: 643565226120367797
+      Catroompaid_115: 200892806909315549
+      Catroompaid_116: -7735981746129935990
+      Catroompaid_117: -164286050636124344
+      Catroompaid_118: 879132727018772778
+      Catroompaid_119: 956210211905326434
+      Catroompaid_12: -2334704015016416161
+      Catroompaid_120: 498531830334822289
+      Catroompaid_121: -7005234553432032959
+      Catroompaid_122: 7933032130511715178
+      Catroompaid_123: -1242416060328664907
+      Catroompaid_124: 3947078999921328528
+      Catroompaid_125: -2148404177744025083
+      Catroompaid_126: 522037063723912451
+      Catroompaid_127: -3011333678027739649
+      Catroompaid_128: 4572003125249493212
+      Catroompaid_129: -7898335426083286686
+      Catroompaid_13: -8223762735641663093
+      Catroompaid_130: 8234188391382048620
+      Catroompaid_131: 1033388486567095803
+      Catroompaid_132: 7543036377174097041
+      Catroompaid_133: -3836229874864163375
+      Catroompaid_134: 2197346593863716981
+      Catroompaid_135: 143897374389090845
+      Catroompaid_136: -3377203921122992366
+      Catroompaid_137: 3141678620920790421
+      Catroompaid_138: 2109693536017729197
+      Catroompaid_139: 3605731843248027816
+      Catroompaid_14: 4278763999789516756
+      Catroompaid_140: -2845267336453876907
+      Catroompaid_141: -3893468027355791021
+      Catroompaid_142: 5434348107052866170
+      Catroompaid_143: -6334714178614223238
+      Catroompaid_144: 4055667147459753034
+      Catroompaid_145: -8144007609743655512
+      Catroompaid_146: -220208316442585328
+      Catroompaid_147: 292150190095640786
+      Catroompaid_148: 3617724985301480901
+      Catroompaid_149: 8970684936469305806
+      Catroompaid_15: -868693191370838838
+      Catroompaid_150: 520975225962282949
+      Catroompaid_151: -4130995036196822722
+      Catroompaid_16: -4197889008708451738
+      Catroompaid_17: -8647554330298066150
+      Catroompaid_18: -475441366220406110
+      Catroompaid_19: -8365092380902320646
+      Catroompaid_2: -4284367788268487420
+      Catroompaid_20: -8402492688921589699
+      Catroompaid_21: 9112489194491959122
+      Catroompaid_22: 3783990931950898587
+      Catroompaid_23: -2091636155584461592
+      Catroompaid_24: 1468394280408291465
+      Catroompaid_25: -745903184370395344
+      Catroompaid_26: -1374165711683595490
+      Catroompaid_27: 5680255123784005988
+      Catroompaid_28: 7229873064643238246
+      Catroompaid_29: -5488837845842164454
+      Catroompaid_3: -4771977263375327353
+      Catroompaid_30: 2140556155867160400
+      Catroompaid_31: -1954491419979993060
+      Catroompaid_32: 2960623950545893505
+      Catroompaid_33: -5478852564217187418
+      Catroompaid_34: -3380987830484976002
+      Catroompaid_35: 5205288275392730541
+      Catroompaid_36: -4518791384822718244
+      Catroompaid_37: -8870880528529814980
+      Catroompaid_38: -8933318934342068908
+      Catroompaid_39: 4808019765765079158
+      Catroompaid_4: 7444166703631528658
+      Catroompaid_40: 2204767005538426621
+      Catroompaid_41: -8514437642389275067
+      Catroompaid_42: -3129530880286057806
+      Catroompaid_43: 3442077913464030839
+      Catroompaid_44: -4645512186013901112
+      Catroompaid_45: 5530109510866264659
+      Catroompaid_46: 703697999155319278
+      Catroompaid_47: 3916829089145082036
+      Catroompaid_48: -724542213117548058
+      Catroompaid_49: 5310519179356257419
+      Catroompaid_5: -4826604573996224272
+      Catroompaid_50: 2400913110142295866
+      Catroompaid_51: 6843191270784195292
+      Catroompaid_52: 8179598717565539134
+      Catroompaid_53: 4532064653636165188
+      Catroompaid_54: 7143943234742340942
+      Catroompaid_55: -4485119474051210245
+      Catroompaid_56: -6749286498786941374
+      Catroompaid_57: -2292162021954226989
+      Catroompaid_58: -5164755359909699410
+      Catroompaid_59: 8621209470547405870
+      Catroompaid_6: -964815141148248267
+      Catroompaid_60: -1830892499500674048
+      Catroompaid_61: -4217925249487207127
+      Catroompaid_62: 1719226029435751617
+      Catroompaid_63: -6598870231624103945
+      Catroompaid_64: -395007155020846787
+      Catroompaid_65: -910500649634740499
+      Catroompaid_66: -8731550332267038549
+      Catroompaid_67: 7058900229377875475
+      Catroompaid_68: -8910552838518960734
+      Catroompaid_69: 6221330227187137942
+      Catroompaid_7: 3012899355539517565
+      Catroompaid_70: 8574197006061744668
+      Catroompaid_71: 841552616344319421
+      Catroompaid_72: -9177072430901148783
+      Catroompaid_73: -3116540550969373317
+      Catroompaid_74: -5447560094850128377
+      Catroompaid_75: -303989877064585734
+      Catroompaid_76: 4489863172653647383
+      Catroompaid_77: -5779646069560324019
+      Catroompaid_78: 2718487343574419898
+      Catroompaid_79: 2343265993050912378
+      Catroompaid_8: -7003525661264496962
+      Catroompaid_80: 7970995268549704620
+      Catroompaid_81: -7746236745577261544
+      Catroompaid_82: 8721795739787721895
+      Catroompaid_83: 4071452459192778796
+      Catroompaid_84: 5184916595110236469
+      Catroompaid_85: -2889753696572800874
+      Catroompaid_86: 6996943901517556149
+      Catroompaid_87: 6453962939583315327
+      Catroompaid_88: 1617276698375595934
+      Catroompaid_89: 2696440714243650175
+      Catroompaid_9: -4557012337576629688
+      Catroompaid_90: -1013714578419780677
+      Catroompaid_91: 2978498751229451810
+      Catroompaid_92: -4130564709468543946
+      Catroompaid_93: -8738907352114723740
+      Catroompaid_94: -1968280122144293095
+      Catroompaid_95: -2215964450823657175
+      Catroompaid_96: 7412610977166963618
+      Catroompaid_97: 2935389295411563190
+      Catroompaid_98: -359264251802632739
+      Catroompaid_99: 4505074894051909877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

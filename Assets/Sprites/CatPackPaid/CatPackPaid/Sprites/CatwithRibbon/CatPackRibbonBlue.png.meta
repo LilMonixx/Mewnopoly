@@ -1,0 +1,3042 @@
+fileFormatVersion: 2
+guid: 090235f70d931ae43889890777b25bde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -736754974592723436
+    second: CatPackRibbonBlue_0
+  - first:
+      213: 2484690483394252526
+    second: CatPackRibbonBlue_1
+  - first:
+      213: 4580242194819966633
+    second: CatPackRibbonBlue_2
+  - first:
+      213: 5233771284933231285
+    second: CatPackRibbonBlue_3
+  - first:
+      213: -824040283720917488
+    second: CatPackRibbonBlue_4
+  - first:
+      213: -8152495934754570690
+    second: CatPackRibbonBlue_5
+  - first:
+      213: -8073363425732444855
+    second: CatPackRibbonBlue_6
+  - first:
+      213: 2098913649821719914
+    second: CatPackRibbonBlue_7
+  - first:
+      213: -1248539859901762797
+    second: CatPackRibbonBlue_8
+  - first:
+      213: 665892466917472764
+    second: CatPackRibbonBlue_9
+  - first:
+      213: 100132300873652163
+    second: CatPackRibbonBlue_10
+  - first:
+      213: 2189360403409714053
+    second: CatPackRibbonBlue_11
+  - first:
+      213: 2210645168925263489
+    second: CatPackRibbonBlue_12
+  - first:
+      213: -8551987155212895059
+    second: CatPackRibbonBlue_13
+  - first:
+      213: -4736931240586775537
+    second: CatPackRibbonBlue_14
+  - first:
+      213: 1446005468615213776
+    second: CatPackRibbonBlue_15
+  - first:
+      213: 4112392442613480570
+    second: CatPackRibbonBlue_16
+  - first:
+      213: 2276425559665716125
+    second: CatPackRibbonBlue_17
+  - first:
+      213: 472672855353257158
+    second: CatPackRibbonBlue_18
+  - first:
+      213: -7038391851952322791
+    second: CatPackRibbonBlue_19
+  - first:
+      213: -3888173981351299471
+    second: CatPackRibbonBlue_20
+  - first:
+      213: 7418918877192210499
+    second: CatPackRibbonBlue_21
+  - first:
+      213: 6667126261074740316
+    second: CatPackRibbonBlue_22
+  - first:
+      213: 4710552950038736928
+    second: CatPackRibbonBlue_23
+  - first:
+      213: 5771945789597409363
+    second: CatPackRibbonBlue_24
+  - first:
+      213: 8887393950268019859
+    second: CatPackRibbonBlue_25
+  - first:
+      213: 7310662894199586676
+    second: CatPackRibbonBlue_26
+  - first:
+      213: -6717238884704337556
+    second: CatPackRibbonBlue_27
+  - first:
+      213: -2942884028639872954
+    second: CatPackRibbonBlue_28
+  - first:
+      213: -6814426656370584722
+    second: CatPackRibbonBlue_29
+  - first:
+      213: 5083332783499280819
+    second: CatPackRibbonBlue_30
+  - first:
+      213: -2435447452527452117
+    second: CatPackRibbonBlue_31
+  - first:
+      213: 5210747345138936949
+    second: CatPackRibbonBlue_32
+  - first:
+      213: -6748174462103292919
+    second: CatPackRibbonBlue_33
+  - first:
+      213: -3726360495557360418
+    second: CatPackRibbonBlue_34
+  - first:
+      213: 4486104957356761635
+    second: CatPackRibbonBlue_35
+  - first:
+      213: -4217578359351371221
+    second: CatPackRibbonBlue_36
+  - first:
+      213: -5862545774931381191
+    second: CatPackRibbonBlue_37
+  - first:
+      213: 7629367695996726678
+    second: CatPackRibbonBlue_38
+  - first:
+      213: 4747106392961803331
+    second: CatPackRibbonBlue_39
+  - first:
+      213: 1215249538670173185
+    second: CatPackRibbonBlue_40
+  - first:
+      213: 5377899887628919822
+    second: CatPackRibbonBlue_41
+  - first:
+      213: 8745779744941882852
+    second: CatPackRibbonBlue_42
+  - first:
+      213: 4943280329370195959
+    second: CatPackRibbonBlue_43
+  - first:
+      213: -465138808965178153
+    second: CatPackRibbonBlue_44
+  - first:
+      213: 1645702045206571998
+    second: CatPackRibbonBlue_45
+  - first:
+      213: 374395544877716133
+    second: CatPackRibbonBlue_46
+  - first:
+      213: -3855970866608501268
+    second: CatPackRibbonBlue_47
+  - first:
+      213: -3855258148940970693
+    second: CatPackRibbonBlue_48
+  - first:
+      213: -2247693610941005361
+    second: CatPackRibbonBlue_49
+  - first:
+      213: -6272805645800620945
+    second: CatPackRibbonBlue_50
+  - first:
+      213: -1613572853832686121
+    second: CatPackRibbonBlue_51
+  - first:
+      213: -8809473453414830188
+    second: CatPackRibbonBlue_52
+  - first:
+      213: 2192575998722464727
+    second: CatPackRibbonBlue_53
+  - first:
+      213: -6485531775953075711
+    second: CatPackRibbonBlue_54
+  - first:
+      213: -6968315456535680484
+    second: CatPackRibbonBlue_55
+  - first:
+      213: 986958085718709803
+    second: CatPackRibbonBlue_56
+  - first:
+      213: 7779658270310164578
+    second: CatPackRibbonBlue_57
+  - first:
+      213: -3211625531075924499
+    second: CatPackRibbonBlue_58
+  - first:
+      213: 549806312637327498
+    second: CatPackRibbonBlue_59
+  - first:
+      213: -1937471028661622773
+    second: CatPackRibbonBlue_60
+  - first:
+      213: 3696709566144023458
+    second: CatPackRibbonBlue_61
+  - first:
+      213: 5749755487037118365
+    second: CatPackRibbonBlue_62
+  - first:
+      213: -4613780065820487698
+    second: CatPackRibbonBlue_63
+  - first:
+      213: -1249435892458851143
+    second: CatPackRibbonBlue_64
+  - first:
+      213: 8672927150060092395
+    second: CatPackRibbonBlue_65
+  - first:
+      213: 4114231466135017839
+    second: CatPackRibbonBlue_66
+  - first:
+      213: 9004360782052905900
+    second: CatPackRibbonBlue_67
+  - first:
+      213: -858852083857797288
+    second: CatPackRibbonBlue_68
+  - first:
+      213: -485246332566720117
+    second: CatPackRibbonBlue_69
+  - first:
+      213: 5358835387508834391
+    second: CatPackRibbonBlue_70
+  - first:
+      213: 8743425961440154041
+    second: CatPackRibbonBlue_71
+  - first:
+      213: -5892450888945402782
+    second: CatPackRibbonBlue_72
+  - first:
+      213: 2197459859435848189
+    second: CatPackRibbonBlue_73
+  - first:
+      213: 6652506567202826129
+    second: CatPackRibbonBlue_74
+  - first:
+      213: 5176902287767116819
+    second: CatPackRibbonBlue_75
+  - first:
+      213: 2660861328539692268
+    second: CatPackRibbonBlue_76
+  - first:
+      213: -8653651407596194485
+    second: CatPackRibbonBlue_77
+  - first:
+      213: 4748636394627872543
+    second: CatPackRibbonBlue_78
+  - first:
+      213: -6671968421560716484
+    second: CatPackRibbonBlue_79
+  - first:
+      213: -7676335119492311633
+    second: CatPackRibbonBlue_80
+  - first:
+      213: -7142704117771154274
+    second: CatPackRibbonBlue_81
+  - first:
+      213: 8051847437982194098
+    second: CatPackRibbonBlue_82
+  - first:
+      213: -1062390617800062570
+    second: CatPackRibbonBlue_83
+  - first:
+      213: -2507072827065546787
+    second: CatPackRibbonBlue_84
+  - first:
+      213: -2415736075514632286
+    second: CatPackRibbonBlue_85
+  - first:
+      213: -4856424626343648795
+    second: CatPackRibbonBlue_86
+  - first:
+      213: 7399517624037031390
+    second: CatPackRibbonBlue_87
+  - first:
+      213: 838481654676865173
+    second: CatPackRibbonBlue_88
+  - first:
+      213: -8675142316998878068
+    second: CatPackRibbonBlue_89
+  - first:
+      213: 3316484487850391136
+    second: CatPackRibbonBlue_90
+  - first:
+      213: -4924421092732073251
+    second: CatPackRibbonBlue_91
+  - first:
+      213: -2620379175497169733
+    second: CatPackRibbonBlue_92
+  - first:
+      213: 3418070263389486959
+    second: CatPackRibbonBlue_93
+  - first:
+      213: 5328950196463988731
+    second: CatPackRibbonBlue_94
+  - first:
+      213: 3728823241780138102
+    second: CatPackRibbonBlue_95
+  - first:
+      213: 8166188067414634292
+    second: CatPackRibbonBlue_96
+  - first:
+      213: -1676812474436070094
+    second: CatPackRibbonBlue_97
+  - first:
+      213: 719710343250892623
+    second: CatPackRibbonBlue_98
+  - first:
+      213: 9048042319686822359
+    second: CatPackRibbonBlue_99
+  - first:
+      213: -1355130344574587329
+    second: CatPackRibbonBlue_100
+  - first:
+      213: 8831482235506925331
+    second: CatPackRibbonBlue_101
+  - first:
+      213: 1241415012712810576
+    second: CatPackRibbonBlue_102
+  - first:
+      213: -6699790864952380421
+    second: CatPackRibbonBlue_103
+  - first:
+      213: -6070473868889538910
+    second: CatPackRibbonBlue_104
+  - first:
+      213: -1355216884067674007
+    second: CatPackRibbonBlue_105
+  - first:
+      213: 1939457192304235262
+    second: CatPackRibbonBlue_106
+  - first:
+      213: 2027159584511007454
+    second: CatPackRibbonBlue_107
+  - first:
+      213: -1441158835610463200
+    second: CatPackRibbonBlue_108
+  - first:
+      213: -7413712848693567624
+    second: CatPackRibbonBlue_109
+  - first:
+      213: 6008406586895453739
+    second: CatPackRibbonBlue_110
+  - first:
+      213: -8863239830248293491
+    second: CatPackRibbonBlue_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41616ec014586c5f0800000000000000
+      internalID: -736754974592723436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee028784d46b7220800000000000000
+      internalID: 2484690483394252526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ef7f420a409f30800000000000000
+      internalID: 4580242194819966633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c512014712a840800000000000000
+      internalID: 5233771284933231285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 479
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed3385abb6094f0800000000000000
+      internalID: -824040283720917488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e332024248cde80800000000000000
+      internalID: -8152495934754570690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 479
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d36922db6a5ff80800000000000000
+      internalID: -8073363425732444855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d97df08d6d02d10800000000000000
+      internalID: 2098913649821719914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b3aacc9b4caee0800000000000000
+      internalID: -1248539859901762797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 479
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9793daba9bd3900800000000000000
+      internalID: 665892466917472764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 447
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7dd101ccdb36100800000000000000
+      internalID: 100132300873652163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 479
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bba8aefab226e10800000000000000
+      internalID: 2189360403409714053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 447
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864932911acdae10800000000000000
+      internalID: 2210645168925263489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 479
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacf4d12efc315980800000000000000
+      internalID: -8551987155212895059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 447
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04ff5f422a034eb0800000000000000
+      internalID: -4736931240586775537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 447
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2051cff4e311410800000000000000
+      internalID: 1446005468615213776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 447
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c3afe5327221930800000000000000
+      internalID: 4112392442613480570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 447
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bae794cfc779f10800000000000000
+      internalID: 2276425559665716125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 130
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccec4625754f8600800000000000000
+      internalID: 472672855353257158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917c062d6eb925e90800000000000000
+      internalID: -7038391851952322791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b3a84d5e6a0ac0800000000000000
+      internalID: -3888173981351299471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 319
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484b74696b45f660800000000000000
+      internalID: 7418918877192210499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c900b204668c50800000000000000
+      internalID: 6667126261074740316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 319
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0203ab253fe3f5140800000000000000
+      internalID: 4710552950038736928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 319
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350e3c35d121a1050800000000000000
+      internalID: 5771945789597409363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 351
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945ea8d5bd565b70800000000000000
+      internalID: 8887393950268019859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 319
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f35613b21b47560800000000000000
+      internalID: 7310662894199586676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 319
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61c1c5e2d297c2a0800000000000000
+      internalID: -6717238884704337556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 319
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648ffb96196c827d0800000000000000
+      internalID: -2942884028639872954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 319
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6314177f0b4e61a0800000000000000
+      internalID: -6814426656370584722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 319
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b18293eb30ab8640800000000000000
+      internalID: 5083332783499280819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 319
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20a8fa027d833ed0800000000000000
+      internalID: -2435447452527452117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 319
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ce0594a1b405840800000000000000
+      internalID: 5210747345138936949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 319
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90478ff741ba952a0800000000000000
+      internalID: -6748174462103292919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed441455fde494cc0800000000000000
+      internalID: -3726360495557360418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3226e58b0b8d14e30800000000000000
+      internalID: 4486104957356761635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a9c7ee3d62875c0800000000000000
+      internalID: -4217578359351371221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9347fb5cdad04aea0800000000000000
+      internalID: -5862545774931381191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69da9b45f75f0e960800000000000000
+      internalID: 7629367695996726678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3446977fc1c11e140800000000000000
+      internalID: 4747106392961803331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c94e9440f6dd010800000000000000
+      internalID: 1215249538670173185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e042cb7547322aa40800000000000000
+      internalID: 5377899887628919822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 287
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed311547504f5970800000000000000
+      internalID: 8745779744941882852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f75949d44f0a9440800000000000000
+      internalID: 4943280329370195959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_44
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd168b7be7b89f0800000000000000
+      internalID: -465138808965178153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbeba27a45b6d610800000000000000
+      internalID: 1645702045206571998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2dce1b3ce123500800000000000000
+      internalID: 374395544877716133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced8b873de6dc7ac0800000000000000
+      internalID: -3855970866608501268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3581fab32f5f7ac0800000000000000
+      internalID: -3855258148940970693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc142f3d1969ec0e0800000000000000
+      internalID: -2247693610941005361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c3df8ff7482f8a0800000000000000
+      internalID: -6272805645800620945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 255
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5e61cd9007b99e0800000000000000
+      internalID: -1613572853832686121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 255
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa9f691967eb580800000000000000
+      internalID: -8809473453414830188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 255
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db56ea01489d6e10800000000000000
+      internalID: 2192575998722464727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 255
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1020fca2633cef5a0800000000000000
+      internalID: -6485531775953075711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aa35213029b4f90800000000000000
+      internalID: -6968315456535680484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26967b562162bd00800000000000000
+      internalID: 986958085718709803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26864cb7af5e6fb60800000000000000
+      internalID: 7779658270310164578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dede4ac68930e63d0800000000000000
+      internalID: -3211625531075924499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88e308aded41a700800000000000000
+      internalID: 549806312637327498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 223
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0863065d58bc15e0800000000000000
+      internalID: -1937471028661622773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab8dcfa3c95d4330800000000000000
+      internalID: 3696709566144023458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d975336e62c3bcf40800000000000000
+      internalID: 5749755487037118365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefcdf8997f88ffb0800000000000000
+      internalID: -4613780065820487698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4fd54fcac19aee0800000000000000
+      internalID: -1249435892458851143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb3c26ba4d6c5870800000000000000
+      internalID: 8672927150060092395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6956b668bfa81930800000000000000
+      internalID: 4114231466135017839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d8b39c6ae5fc70800000000000000
+      internalID: 9004360782052905900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f4d03849eb414f0800000000000000
+      internalID: -858852083857797288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81bcce080f0449f0800000000000000
+      internalID: -485246332566720117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750c14284686e5a40800000000000000
+      internalID: 5358835387508834391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_71
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b191975693e65970800000000000000
+      internalID: 8743425961440154041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c79f3d22fc93ea0800000000000000
+      internalID: -5892450888945402782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df18ad97912fe7e10800000000000000
+      internalID: 2197459859435848189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197e314f973725c50800000000000000
+      internalID: 6652506567202826129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c144bc33d08d740800000000000000
+      internalID: 5176902287767116819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecae2cc7474de420800000000000000
+      internalID: 2660861328539692268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b457b20d4ed08e780800000000000000
+      internalID: -8653651407596194485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_78
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17394d34ab86e140800000000000000
+      internalID: 4748636394627872543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33ff38f1186863a0800000000000000
+      internalID: -6671968421560716484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa51ec931ed287590800000000000000
+      internalID: -7676335119492311633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cc784d27400ec90800000000000000
+      internalID: -7142704117771154274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b951969598edbf60800000000000000
+      internalID: 8051847437982194098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_83
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699c155ac51a141f0800000000000000
+      internalID: -1062390617800062570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd749bcfb86153dd0800000000000000
+      internalID: -2507072827065546787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_85
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7aad3a6d4997ed0800000000000000
+      internalID: -2415736075514632286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1e35468838a9cb0800000000000000
+      internalID: -4856424626343648795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd38f1231e50b660800000000000000
+      internalID: 7399517624037031390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 95
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59042b95f92e2ab00800000000000000
+      internalID: 838481654676865173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c925b8604bb9780800000000000000
+      internalID: -8675142316998878068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_90
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0667a69f115860e20800000000000000
+      internalID: 3316484487850391136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_91
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 95
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda834b5b11f8abb0800000000000000
+      internalID: -4924421092732073251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_92
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 95
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb409a3f50b82abd0800000000000000
+      internalID: -2620379175497169733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 95
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ff7aa7bcc6f6f20800000000000000
+      internalID: 3418070263389486959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_94
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 95
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffebfd38fb34f940800000000000000
+      internalID: 5328950196463988731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67096847bf07fb330800000000000000
+      internalID: 3728823241780138102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f684fe7c0245170800000000000000
+      internalID: 8166188067414634292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2355b4a40f3cab8e0800000000000000
+      internalID: -1676812474436070094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47d4a67ebcecf900800000000000000
+      internalID: 719710343250892623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d962a91d8a119d70800000000000000
+      internalID: 9048042319686822359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6743a12c913de0800000000000000
+      internalID: -1355130344574587329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f109f4d4abf8a70800000000000000
+      internalID: 8831482235506925331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058859370646a3110800000000000000
+      internalID: 1241415012712810576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_103
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 63
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf33b1194bf8503a0800000000000000
+      internalID: -6699790864952380421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_104
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 63
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae3c82dd2851cba0800000000000000
+      internalID: -6070473868889538910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968d8879c6d413de0800000000000000
+      internalID: -1355216884067674007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_106
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 63
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2de5c6a065aea10800000000000000
+      internalID: 1939457192304235262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_107
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 63
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda9ec9d6eae12c10800000000000000
+      internalID: 2027159584511007454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_108
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 63
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024d582bca9fffbe0800000000000000
+      internalID: -1441158835610463200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_109
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 63
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fded291733d1990800000000000000
+      internalID: -7413712848693567624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_110
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 63
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e4506f4f5226350800000000000000
+      internalID: 6008406586895453739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatPackRibbonBlue_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 63
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bf4f675527ff480800000000000000
+      internalID: -8863239830248293491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CatPackRibbonBlue_0: -736754974592723436
+      CatPackRibbonBlue_1: 2484690483394252526
+      CatPackRibbonBlue_10: 100132300873652163
+      CatPackRibbonBlue_100: -1355130344574587329
+      CatPackRibbonBlue_101: 8831482235506925331
+      CatPackRibbonBlue_102: 1241415012712810576
+      CatPackRibbonBlue_103: -6699790864952380421
+      CatPackRibbonBlue_104: -6070473868889538910
+      CatPackRibbonBlue_105: -1355216884067674007
+      CatPackRibbonBlue_106: 1939457192304235262
+      CatPackRibbonBlue_107: 2027159584511007454
+      CatPackRibbonBlue_108: -1441158835610463200
+      CatPackRibbonBlue_109: -7413712848693567624
+      CatPackRibbonBlue_11: 2189360403409714053
+      CatPackRibbonBlue_110: 6008406586895453739
+      CatPackRibbonBlue_111: -8863239830248293491
+      CatPackRibbonBlue_12: 2210645168925263489
+      CatPackRibbonBlue_13: -8551987155212895059
+      CatPackRibbonBlue_14: -4736931240586775537
+      CatPackRibbonBlue_15: 1446005468615213776
+      CatPackRibbonBlue_16: 4112392442613480570
+      CatPackRibbonBlue_17: 2276425559665716125
+      CatPackRibbonBlue_18: 472672855353257158
+      CatPackRibbonBlue_19: -7038391851952322791
+      CatPackRibbonBlue_2: 4580242194819966633
+      CatPackRibbonBlue_20: -3888173981351299471
+      CatPackRibbonBlue_21: 7418918877192210499
+      CatPackRibbonBlue_22: 6667126261074740316
+      CatPackRibbonBlue_23: 4710552950038736928
+      CatPackRibbonBlue_24: 5771945789597409363
+      CatPackRibbonBlue_25: 8887393950268019859
+      CatPackRibbonBlue_26: 7310662894199586676
+      CatPackRibbonBlue_27: -6717238884704337556
+      CatPackRibbonBlue_28: -2942884028639872954
+      CatPackRibbonBlue_29: -6814426656370584722
+      CatPackRibbonBlue_3: 5233771284933231285
+      CatPackRibbonBlue_30: 5083332783499280819
+      CatPackRibbonBlue_31: -2435447452527452117
+      CatPackRibbonBlue_32: 5210747345138936949
+      CatPackRibbonBlue_33: -6748174462103292919
+      CatPackRibbonBlue_34: -3726360495557360418
+      CatPackRibbonBlue_35: 4486104957356761635
+      CatPackRibbonBlue_36: -4217578359351371221
+      CatPackRibbonBlue_37: -5862545774931381191
+      CatPackRibbonBlue_38: 7629367695996726678
+      CatPackRibbonBlue_39: 4747106392961803331
+      CatPackRibbonBlue_4: -824040283720917488
+      CatPackRibbonBlue_40: 1215249538670173185
+      CatPackRibbonBlue_41: 5377899887628919822
+      CatPackRibbonBlue_42: 8745779744941882852
+      CatPackRibbonBlue_43: 4943280329370195959
+      CatPackRibbonBlue_44: -465138808965178153
+      CatPackRibbonBlue_45: 1645702045206571998
+      CatPackRibbonBlue_46: 374395544877716133
+      CatPackRibbonBlue_47: -3855970866608501268
+      CatPackRibbonBlue_48: -3855258148940970693
+      CatPackRibbonBlue_49: -2247693610941005361
+      CatPackRibbonBlue_5: -8152495934754570690
+      CatPackRibbonBlue_50: -6272805645800620945
+      CatPackRibbonBlue_51: -1613572853832686121
+      CatPackRibbonBlue_52: -8809473453414830188
+      CatPackRibbonBlue_53: 2192575998722464727
+      CatPackRibbonBlue_54: -6485531775953075711
+      CatPackRibbonBlue_55: -6968315456535680484
+      CatPackRibbonBlue_56: 986958085718709803
+      CatPackRibbonBlue_57: 7779658270310164578
+      CatPackRibbonBlue_58: -3211625531075924499
+      CatPackRibbonBlue_59: 549806312637327498
+      CatPackRibbonBlue_6: -8073363425732444855
+      CatPackRibbonBlue_60: -1937471028661622773
+      CatPackRibbonBlue_61: 3696709566144023458
+      CatPackRibbonBlue_62: 5749755487037118365
+      CatPackRibbonBlue_63: -4613780065820487698
+      CatPackRibbonBlue_64: -1249435892458851143
+      CatPackRibbonBlue_65: 8672927150060092395
+      CatPackRibbonBlue_66: 4114231466135017839
+      CatPackRibbonBlue_67: 9004360782052905900
+      CatPackRibbonBlue_68: -858852083857797288
+      CatPackRibbonBlue_69: -485246332566720117
+      CatPackRibbonBlue_7: 2098913649821719914
+      CatPackRibbonBlue_70: 5358835387508834391
+      CatPackRibbonBlue_71: 8743425961440154041
+      CatPackRibbonBlue_72: -5892450888945402782
+      CatPackRibbonBlue_73: 2197459859435848189
+      CatPackRibbonBlue_74: 6652506567202826129
+      CatPackRibbonBlue_75: 5176902287767116819
+      CatPackRibbonBlue_76: 2660861328539692268
+      CatPackRibbonBlue_77: -8653651407596194485
+      CatPackRibbonBlue_78: 4748636394627872543
+      CatPackRibbonBlue_79: -6671968421560716484
+      CatPackRibbonBlue_8: -1248539859901762797
+      CatPackRibbonBlue_80: -7676335119492311633
+      CatPackRibbonBlue_81: -7142704117771154274
+      CatPackRibbonBlue_82: 8051847437982194098
+      CatPackRibbonBlue_83: -1062390617800062570
+      CatPackRibbonBlue_84: -2507072827065546787
+      CatPackRibbonBlue_85: -2415736075514632286
+      CatPackRibbonBlue_86: -4856424626343648795
+      CatPackRibbonBlue_87: 7399517624037031390
+      CatPackRibbonBlue_88: 838481654676865173
+      CatPackRibbonBlue_89: -8675142316998878068
+      CatPackRibbonBlue_9: 665892466917472764
+      CatPackRibbonBlue_90: 3316484487850391136
+      CatPackRibbonBlue_91: -4924421092732073251
+      CatPackRibbonBlue_92: -2620379175497169733
+      CatPackRibbonBlue_93: 3418070263389486959
+      CatPackRibbonBlue_94: 5328950196463988731
+      CatPackRibbonBlue_95: 3728823241780138102
+      CatPackRibbonBlue_96: 8166188067414634292
+      CatPackRibbonBlue_97: -1676812474436070094
+      CatPackRibbonBlue_98: 719710343250892623
+      CatPackRibbonBlue_99: 9048042319686822359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

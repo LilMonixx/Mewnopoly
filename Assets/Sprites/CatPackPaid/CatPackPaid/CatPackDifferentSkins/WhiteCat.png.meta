@@ -1,0 +1,3926 @@
+fileFormatVersion: 2
+guid: b49d19ff157ec784ab623ef06ce4856a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1774318226260575771
+    second: WhiteCat_0
+  - first:
+      213: 1938151881372013144
+    second: WhiteCat_1
+  - first:
+      213: -1851343251798965291
+    second: WhiteCat_2
+  - first:
+      213: -1306046158586985923
+    second: WhiteCat_3
+  - first:
+      213: 5771694186064597813
+    second: WhiteCat_4
+  - first:
+      213: -2883076343873627403
+    second: WhiteCat_5
+  - first:
+      213: 2863982237940651437
+    second: WhiteCat_6
+  - first:
+      213: 8624140515444204191
+    second: WhiteCat_7
+  - first:
+      213: -8700722430037057662
+    second: WhiteCat_8
+  - first:
+      213: -979365599234707290
+    second: WhiteCat_9
+  - first:
+      213: 5671007451199119331
+    second: WhiteCat_10
+  - first:
+      213: -5349216224576252689
+    second: WhiteCat_11
+  - first:
+      213: -6201592926970508327
+    second: WhiteCat_12
+  - first:
+      213: -1543344201558823867
+    second: WhiteCat_13
+  - first:
+      213: -3006557038432604105
+    second: WhiteCat_14
+  - first:
+      213: -6559201499526064702
+    second: WhiteCat_15
+  - first:
+      213: -5154716437366034625
+    second: WhiteCat_16
+  - first:
+      213: 75392554556159462
+    second: WhiteCat_17
+  - first:
+      213: -7520623311820203738
+    second: WhiteCat_18
+  - first:
+      213: 4713738659806777755
+    second: WhiteCat_19
+  - first:
+      213: 3099012123876025216
+    second: WhiteCat_20
+  - first:
+      213: 6242584558075763205
+    second: WhiteCat_21
+  - first:
+      213: 4935310032003701649
+    second: WhiteCat_22
+  - first:
+      213: -681173083024146940
+    second: WhiteCat_23
+  - first:
+      213: 2217806232477204695
+    second: WhiteCat_24
+  - first:
+      213: -3686969629807709971
+    second: WhiteCat_25
+  - first:
+      213: -8782025775129865464
+    second: WhiteCat_26
+  - first:
+      213: 7384190141093198415
+    second: WhiteCat_27
+  - first:
+      213: 663484857241918267
+    second: WhiteCat_28
+  - first:
+      213: -8875668378307675654
+    second: WhiteCat_29
+  - first:
+      213: -3464290673699393173
+    second: WhiteCat_30
+  - first:
+      213: 6017705894765256137
+    second: WhiteCat_31
+  - first:
+      213: 2166534497118759314
+    second: WhiteCat_32
+  - first:
+      213: -2264453851947723412
+    second: WhiteCat_33
+  - first:
+      213: -1984114230239876235
+    second: WhiteCat_34
+  - first:
+      213: 3885703735996308184
+    second: WhiteCat_35
+  - first:
+      213: 4172527988944774662
+    second: WhiteCat_36
+  - first:
+      213: 4925734027635277954
+    second: WhiteCat_37
+  - first:
+      213: 7060640748016460082
+    second: WhiteCat_38
+  - first:
+      213: 1515253933315425837
+    second: WhiteCat_39
+  - first:
+      213: 454372784839722251
+    second: WhiteCat_40
+  - first:
+      213: 599782309400280099
+    second: WhiteCat_41
+  - first:
+      213: -42884351269037087
+    second: WhiteCat_42
+  - first:
+      213: 8149744483481907909
+    second: WhiteCat_43
+  - first:
+      213: 4279928440933313926
+    second: WhiteCat_44
+  - first:
+      213: 1873621477525551786
+    second: WhiteCat_45
+  - first:
+      213: -9093804527462474517
+    second: WhiteCat_46
+  - first:
+      213: -484518392517037587
+    second: WhiteCat_47
+  - first:
+      213: -8079104471891143547
+    second: WhiteCat_48
+  - first:
+      213: -8252872181335348109
+    second: WhiteCat_49
+  - first:
+      213: -3654686899419346483
+    second: WhiteCat_50
+  - first:
+      213: 4272348855284990203
+    second: WhiteCat_51
+  - first:
+      213: 2387074618022743882
+    second: WhiteCat_52
+  - first:
+      213: -2650217423749342121
+    second: WhiteCat_53
+  - first:
+      213: -6209228602538279122
+    second: WhiteCat_54
+  - first:
+      213: -824398436324738021
+    second: WhiteCat_55
+  - first:
+      213: 2207334058105492448
+    second: WhiteCat_56
+  - first:
+      213: -6552474694955640504
+    second: WhiteCat_57
+  - first:
+      213: 7048785412716150098
+    second: WhiteCat_58
+  - first:
+      213: 6481735321408971289
+    second: WhiteCat_59
+  - first:
+      213: 3582584129369168981
+    second: WhiteCat_60
+  - first:
+      213: 5565805209372258251
+    second: WhiteCat_61
+  - first:
+      213: 7998520038773292671
+    second: WhiteCat_62
+  - first:
+      213: -8072515187124334083
+    second: WhiteCat_63
+  - first:
+      213: -2995520939610505332
+    second: WhiteCat_64
+  - first:
+      213: 4177700591622561582
+    second: WhiteCat_65
+  - first:
+      213: -7145959711688872081
+    second: WhiteCat_66
+  - first:
+      213: 7102608843986365840
+    second: WhiteCat_67
+  - first:
+      213: 6241638913306588465
+    second: WhiteCat_68
+  - first:
+      213: 2647789410671121236
+    second: WhiteCat_69
+  - first:
+      213: -3036268480032268109
+    second: WhiteCat_70
+  - first:
+      213: 8244165733505337366
+    second: WhiteCat_71
+  - first:
+      213: -1100529379643438786
+    second: WhiteCat_72
+  - first:
+      213: -8315426987602993636
+    second: WhiteCat_73
+  - first:
+      213: -5948514329109897139
+    second: WhiteCat_74
+  - first:
+      213: -2060608351788657992
+    second: WhiteCat_75
+  - first:
+      213: -1591915088061196102
+    second: WhiteCat_76
+  - first:
+      213: -7590871519365737511
+    second: WhiteCat_77
+  - first:
+      213: -7543892815351238763
+    second: WhiteCat_78
+  - first:
+      213: -6072881687844123468
+    second: WhiteCat_79
+  - first:
+      213: 3647451374469419943
+    second: WhiteCat_80
+  - first:
+      213: 6269779522115860395
+    second: WhiteCat_81
+  - first:
+      213: -4788383118147687024
+    second: WhiteCat_82
+  - first:
+      213: 5179951068668989831
+    second: WhiteCat_83
+  - first:
+      213: -1175812581544429290
+    second: WhiteCat_84
+  - first:
+      213: -1742477078730963307
+    second: WhiteCat_85
+  - first:
+      213: 3328061191995332251
+    second: WhiteCat_86
+  - first:
+      213: 3365346047838947489
+    second: WhiteCat_87
+  - first:
+      213: -6014617455405720338
+    second: WhiteCat_88
+  - first:
+      213: -3439469112262507042
+    second: WhiteCat_89
+  - first:
+      213: 5998985183289129627
+    second: WhiteCat_90
+  - first:
+      213: 954241566753424264
+    second: WhiteCat_91
+  - first:
+      213: 26440348932581943
+    second: WhiteCat_92
+  - first:
+      213: -4473813035258886060
+    second: WhiteCat_93
+  - first:
+      213: 8098120846883012436
+    second: WhiteCat_94
+  - first:
+      213: -120852335842935134
+    second: WhiteCat_95
+  - first:
+      213: 3831017578784398557
+    second: WhiteCat_96
+  - first:
+      213: -2058973150192456718
+    second: WhiteCat_97
+  - first:
+      213: -2581283718158345070
+    second: WhiteCat_98
+  - first:
+      213: 5804887943737390900
+    second: WhiteCat_99
+  - first:
+      213: 4036381657412564494
+    second: WhiteCat_100
+  - first:
+      213: 6738896503171434828
+    second: WhiteCat_101
+  - first:
+      213: 4942431896311224950
+    second: WhiteCat_102
+  - first:
+      213: 2354799647872451067
+    second: WhiteCat_103
+  - first:
+      213: -3279025136144722942
+    second: WhiteCat_104
+  - first:
+      213: -7742924601420286384
+    second: WhiteCat_105
+  - first:
+      213: -3322539037320523788
+    second: WhiteCat_106
+  - first:
+      213: 4960328636495701528
+    second: WhiteCat_107
+  - first:
+      213: 2448295794780996434
+    second: WhiteCat_108
+  - first:
+      213: 3586839754181149840
+    second: WhiteCat_109
+  - first:
+      213: 4488841005598933156
+    second: WhiteCat_110
+  - first:
+      213: -4627944773854213800
+    second: WhiteCat_111
+  - first:
+      213: -5793648174296277286
+    second: WhiteCat_112
+  - first:
+      213: 9176128048292319806
+    second: WhiteCat_113
+  - first:
+      213: 7085197469964151571
+    second: WhiteCat_114
+  - first:
+      213: -1262918427413786700
+    second: WhiteCat_115
+  - first:
+      213: 1761922058880144350
+    second: WhiteCat_116
+  - first:
+      213: 7776988080105134210
+    second: WhiteCat_117
+  - first:
+      213: -6179082817509492488
+    second: WhiteCat_118
+  - first:
+      213: 92721162651304384
+    second: WhiteCat_119
+  - first:
+      213: -8748779449053562460
+    second: WhiteCat_120
+  - first:
+      213: 232273577742200408
+    second: WhiteCat_121
+  - first:
+      213: 6964704449670445337
+    second: WhiteCat_122
+  - first:
+      213: -7526592361768983309
+    second: WhiteCat_123
+  - first:
+      213: 3839363456677751597
+    second: WhiteCat_124
+  - first:
+      213: 5141906604899771002
+    second: WhiteCat_125
+  - first:
+      213: -307396638486240380
+    second: WhiteCat_126
+  - first:
+      213: 5668940667200326478
+    second: WhiteCat_127
+  - first:
+      213: -2468135905171207483
+    second: WhiteCat_128
+  - first:
+      213: 27802512232411309
+    second: WhiteCat_129
+  - first:
+      213: 6190982974351530460
+    second: WhiteCat_130
+  - first:
+      213: -1523694268349354989
+    second: WhiteCat_131
+  - first:
+      213: -6826544789272951781
+    second: WhiteCat_132
+  - first:
+      213: 302397237317251518
+    second: WhiteCat_133
+  - first:
+      213: 7516331374737070542
+    second: WhiteCat_134
+  - first:
+      213: -4912033543449075576
+    second: WhiteCat_135
+  - first:
+      213: 769004174600693502
+    second: WhiteCat_136
+  - first:
+      213: -5083266401074925239
+    second: WhiteCat_137
+  - first:
+      213: -605743661867598839
+    second: WhiteCat_138
+  - first:
+      213: 4131574220771972862
+    second: WhiteCat_139
+  - first:
+      213: 3630712393310098069
+    second: WhiteCat_140
+  - first:
+      213: 7332899891276294052
+    second: WhiteCat_141
+  - first:
+      213: 8599751344912672961
+    second: WhiteCat_142
+  - first:
+      213: -5024127272066788987
+    second: WhiteCat_143
+  - first:
+      213: 3498969575939201346
+    second: WhiteCat_144
+  - first:
+      213: 1823285495036705321
+    second: WhiteCat_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhiteCat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1643caa605af9810800000000000000
+      internalID: 1774318226260575771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 607
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8521fe90ed2b5ea10800000000000000
+      internalID: 1938151881372013144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 607
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3c43f0f15be46e0800000000000000
+      internalID: -1851343251798965291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 607
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32c82140fdffdde0800000000000000
+      internalID: -1306046158586985923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 607
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5335190584d291050800000000000000
+      internalID: 5771694186064597813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 607
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa941727514df7d0800000000000000
+      internalID: -2883076343873627403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 607
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51b7fdba8eeb720800000000000000
+      internalID: 2863982237940651437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 607
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f922b1c2b1a1fa770800000000000000
+      internalID: 8624140515444204191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 607
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f1e5c5c03d04780800000000000000
+      internalID: -8700722430037057662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0b0682d289862f0800000000000000
+      internalID: -979365599234707290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 575
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef11570b3773be40800000000000000
+      internalID: 5671007451199119331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 575
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe450636f24c3c5b0800000000000000
+      internalID: -5349216224576252689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 575
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db095227148fe9a0800000000000000
+      internalID: -6201592926970508327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 575
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c6deb20a0f49ae0800000000000000
+      internalID: -1543344201558823867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 575
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730364f8d409646d0800000000000000
+      internalID: -3006557038432604105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 575
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c51a820df809f4a0800000000000000
+      internalID: -6559201499526064702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 575
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f2ee806b4c678b0800000000000000
+      internalID: -5154716437366034625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 575
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e577010129db0100800000000000000
+      internalID: 75392554556159462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295f61a1f061a790800000000000000
+      internalID: -7520623311820203738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b911fcd26509a6140800000000000000
+      internalID: 4713738659806777755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083624e7b17e10b20800000000000000
+      internalID: 3099012123876025216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 447
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ad178b49d12a650800000000000000
+      internalID: 6242584558075763205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 447
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b9002635ebd7440800000000000000
+      internalID: 4935310032003701649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 479
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eb9c3a0bcfb86f0800000000000000
+      internalID: -681173083024146940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 447
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0837b940b37ce10800000000000000
+      internalID: 2217806232477204695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 447
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de078a5f7a045dcc0800000000000000
+      internalID: -3686969629807709971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 447
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8035f01361aff1680800000000000000
+      internalID: -8782025775129865464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 479
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a3dc96fc9e97660800000000000000
+      internalID: 7384190141093198415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 447
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b51cd56fb253900800000000000000
+      internalID: 663484857241918267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 447
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9bdce92aa43d480800000000000000
+      internalID: -8875668378307675654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 447
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61f273acfd5cefc0800000000000000
+      internalID: -3464290673699393173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 447
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd14cc0af238350800000000000000
+      internalID: 6017705894765256137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 447
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299a46675a3111e10800000000000000
+      internalID: 2166534497118759314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 447
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c651460283b0390e0800000000000000
+      internalID: -2264453851947723412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b21c0be920774e0800000000000000
+      internalID: -1984114230239876235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 415
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dad776e5facce530800000000000000
+      internalID: 3885703735996308184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 415
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606ad64591cc7e930800000000000000
+      internalID: 4172527988944774662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 415
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280414f1009bb5440800000000000000
+      internalID: 4925734027635277954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 415
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2316b28f95f6cf160800000000000000
+      internalID: 7060640748016460082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 415
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2687c79c63470510800000000000000
+      internalID: 1515253933315425837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 415
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b050af3f3a14e4600800000000000000
+      internalID: 454372784839722251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 415
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cfd5625dad25800800000000000000
+      internalID: 599782309400280099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 415
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb9f24e8e4a76ff0800000000000000
+      internalID: -42884351269037087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c27324bd65b91170800000000000000
+      internalID: 8149744483481907909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_44
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 415
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68debe1bd3c556b30800000000000000
+      internalID: 4279928440933313926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 415
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf3739ec0700a10800000000000000
+      internalID: 1873621477525551786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec92cb96f05cc180800000000000000
+      internalID: -9093804527462474517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f0eec615a649f0800000000000000
+      internalID: -484518392517037587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 383
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58498a9a94141ef80800000000000000
+      internalID: -8079104471891143547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 383
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cadc60a78e77d80800000000000000
+      internalID: -8252872181335348109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 383
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc906dad0a1f74dc0800000000000000
+      internalID: -3654686899419346483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 383
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf00fc3e5ae6a4b30800000000000000
+      internalID: 4272348855284990203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 383
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc893c7b7902120800000000000000
+      internalID: 2387074618022743882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 383
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c9ed76b49883bd0800000000000000
+      internalID: -2650217423749342121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 383
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fb280eb7364d9a0800000000000000
+      internalID: -6209228602538279122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 351
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cf9717df52f84f0800000000000000
+      internalID: -824398436324738021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 351
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3dff181a602ae10800000000000000
+      internalID: 2207334058105492448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849de6f3bfee015a0800000000000000
+      internalID: -6552474694955640504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 351
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25db6ee9cf052d160800000000000000
+      internalID: 7048785412716150098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9122fa0eeefb3f950800000000000000
+      internalID: 6481735321408971289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 351
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c5009c845e7b130800000000000000
+      internalID: 3582584129369168981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfe6a95956bd3d40800000000000000
+      internalID: 5565805209372258251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7efce7e893700f60800000000000000
+      internalID: 7998520038773292671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df11283153aa8ff80800000000000000
+      internalID: -8072515187124334083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f754d8395cd66d0800000000000000
+      internalID: -2995520939610505332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f1a9dbd8c2af930800000000000000
+      internalID: 4177700591622561582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f288dc08374dc90800000000000000
+      internalID: -7145959711688872081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dea54cc19819260800000000000000
+      internalID: 7102608843986365840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f4e3a581ce9650800000000000000
+      internalID: 6241638913306588465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453d71fb076deb420800000000000000
+      internalID: 2647789410671121236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b026fc77e10dd5d0800000000000000
+      internalID: -3036268480032268109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_71
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618880f1e09296270800000000000000
+      internalID: 8244165733505337366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39c87d2c522ab0f0800000000000000
+      internalID: -1100529379643438786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e1a38363ba99c80800000000000000
+      internalID: -8315426987602993636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d406518fbb1a27da0800000000000000
+      internalID: -5948514329109897139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b21f622f9f3763e0800000000000000
+      internalID: -2060608351788657992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8178769a168e9e0800000000000000
+      internalID: -1591915088061196102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 255
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d35390429ec7a690800000000000000
+      internalID: -7590871519365737511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_78
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2e552475be4790800000000000000
+      internalID: -7543892815351238763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc8319c74ac8bba0800000000000000
+      internalID: -6072881687844123468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a392c633b95e9230800000000000000
+      internalID: 3647451374469419943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7fbb3b14bb20750800000000000000
+      internalID: 6269779522115860395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 223
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d645a8cee3c8db0800000000000000
+      internalID: -4788383118147687024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 223
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7819be96d02e2e740800000000000000
+      internalID: 5179951068668989831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 223
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619fb92dfacaeafe0800000000000000
+      internalID: -1175812581544429290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5960bf4345a71d7e0800000000000000
+      internalID: -1742477078730963307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 223
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9615a37506af2e20800000000000000
+      internalID: 3328061191995332251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_87
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 223
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a884bf666c14be20800000000000000
+      internalID: 3365346047838947489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 223
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec9da68a49c78ca0800000000000000
+      internalID: -6014617455405720338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_89
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 223
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed54aa3c01d8440d0800000000000000
+      internalID: -3439469112262507042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 223
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab7ce7d3da04350800000000000000
+      internalID: 5998985183289129627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883004036a52e3d00800000000000000
+      internalID: 954241566753424264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a2dd57b5fed5000800000000000000
+      internalID: 26440348932581943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_93
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458c1e96fb2d9e1c0800000000000000
+      internalID: -4473813035258886060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fb5aa210e426070800000000000000
+      internalID: 8098120846883012436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae3ecbd075a25ef0800000000000000
+      internalID: -120852335842935134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 191
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc98b7b0328a2530800000000000000
+      internalID: 3831017578784398557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 191
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb26bc24de0d63e0800000000000000
+      internalID: -2058973150192456718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_98
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 191
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c1ca272207d2cd0800000000000000
+      internalID: -2581283718158345070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_99
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 191
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4373a6744da1f8050800000000000000
+      internalID: 5804887943737390900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 191
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e067af35bbb140830800000000000000
+      internalID: 4036381657412564494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_101
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 191
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c7a95aae558d50800000000000000
+      internalID: 6738896503171434828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_102
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 191
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ad032af9b079440800000000000000
+      internalID: 4942431896311224950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_103
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 191
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf107a0bdcdeda020800000000000000
+      internalID: 2354799647872451067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_104
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 191
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204548ef2009e72d0800000000000000
+      internalID: -3279025136144722942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_105
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 191
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056f5b9491b9b8490800000000000000
+      internalID: -7742924601420286384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff44206958f3e1d0800000000000000
+      internalID: -3322539037320523788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816268b2d90a6d440800000000000000
+      internalID: 4960328636495701528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2530101cd081af120800000000000000
+      internalID: 2448295794780996434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0948736a0c307c130800000000000000
+      internalID: 3586839754181149840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a08ee79c119b4e30800000000000000
+      internalID: 4488841005598933156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8594b428fbc36cfb0800000000000000
+      internalID: -4627944773854213800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeda797ea3d89fa0800000000000000
+      internalID: -5793648174296277286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_113
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 127
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3256fbb7d7285f70800000000000000
+      internalID: 9176128048292319806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_114
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 127
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ba5b85f8da35260800000000000000
+      internalID: 7085197469964151571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 127
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfc4b9a166397ee0800000000000000
+      internalID: -1262918427413786700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 127
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3d97907ca937810800000000000000
+      internalID: 1761922058880144350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2881d1164796deb60800000000000000
+      internalID: 7776988080105134210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_118
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f870a86aec7f3aa0800000000000000
+      internalID: -6179082817509492488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_119
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c10efaf769694100800000000000000
+      internalID: 92721162651304384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_120
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9bce0b177169680800000000000000
+      internalID: -8748779449053562460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_121
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e680c9693393300800000000000000
+      internalID: 232273577742200408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_122
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 127
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9197030ebc997a060800000000000000
+      internalID: 6964704449670445337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_123
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 127
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f46793ef1c2c8790800000000000000
+      internalID: -7526592361768983309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_124
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 127
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba4e6d8b8284530800000000000000
+      internalID: 3839363456677751597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_125
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72294d60d8bb5740800000000000000
+      internalID: 5141906604899771002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_126
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483e0edc268ebbbf0800000000000000
+      internalID: -307396638486240380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_127
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bcd31608f1cae40800000000000000
+      internalID: 5668940667200326478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_128
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca02e2987b6fbdd0800000000000000
+      internalID: -2468135905171207483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_129
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f971dc36c26000800000000000000
+      internalID: 27802512232411309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9d6b4c63acae550800000000000000
+      internalID: 6190982974351530460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cecb4c220cadae0800000000000000
+      internalID: -1523694268349354989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_132
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b148718cead3341a0800000000000000
+      internalID: -6826544789272951781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_133
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1ba576fa4523400800000000000000
+      internalID: 302397237317251518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_134
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec99355ef8f5f4860800000000000000
+      internalID: 7516331374737070542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_135
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8802aed6483f4dbb0800000000000000
+      internalID: -4912033543449075576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_136
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6edd1f83d0caa00800000000000000
+      internalID: 769004174600693502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9413049f32c9479b0800000000000000
+      internalID: -5083266401074925239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_138
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 63
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cff615957f797f0800000000000000
+      internalID: -605743661867598839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_139
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 63
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef656402ddc465930800000000000000
+      internalID: 4131574220771972862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_140
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 63
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925bd47fa1e26230800000000000000
+      internalID: 3630712393310098069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_141
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 63
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a726098991b3c560800000000000000
+      internalID: 7332899891276294052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_142
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 63
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c82536e844785770800000000000000
+      internalID: 8599751344912672961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_143
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 63
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5815b127dd6b64ab0800000000000000
+      internalID: -5024127272066788987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_144
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 63
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24951cd7a46de8030800000000000000
+      internalID: 3498969575939201346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCat_145
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 63
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af8cf5f7c9d4910800000000000000
+      internalID: 1823285495036705321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WhiteCat_0: 1774318226260575771
+      WhiteCat_1: 1938151881372013144
+      WhiteCat_10: 5671007451199119331
+      WhiteCat_100: 4036381657412564494
+      WhiteCat_101: 6738896503171434828
+      WhiteCat_102: 4942431896311224950
+      WhiteCat_103: 2354799647872451067
+      WhiteCat_104: -3279025136144722942
+      WhiteCat_105: -7742924601420286384
+      WhiteCat_106: -3322539037320523788
+      WhiteCat_107: 4960328636495701528
+      WhiteCat_108: 2448295794780996434
+      WhiteCat_109: 3586839754181149840
+      WhiteCat_11: -5349216224576252689
+      WhiteCat_110: 4488841005598933156
+      WhiteCat_111: -4627944773854213800
+      WhiteCat_112: -5793648174296277286
+      WhiteCat_113: 9176128048292319806
+      WhiteCat_114: 7085197469964151571
+      WhiteCat_115: -1262918427413786700
+      WhiteCat_116: 1761922058880144350
+      WhiteCat_117: 7776988080105134210
+      WhiteCat_118: -6179082817509492488
+      WhiteCat_119: 92721162651304384
+      WhiteCat_12: -6201592926970508327
+      WhiteCat_120: -8748779449053562460
+      WhiteCat_121: 232273577742200408
+      WhiteCat_122: 6964704449670445337
+      WhiteCat_123: -7526592361768983309
+      WhiteCat_124: 3839363456677751597
+      WhiteCat_125: 5141906604899771002
+      WhiteCat_126: -307396638486240380
+      WhiteCat_127: 5668940667200326478
+      WhiteCat_128: -2468135905171207483
+      WhiteCat_129: 27802512232411309
+      WhiteCat_13: -1543344201558823867
+      WhiteCat_130: 6190982974351530460
+      WhiteCat_131: -1523694268349354989
+      WhiteCat_132: -6826544789272951781
+      WhiteCat_133: 302397237317251518
+      WhiteCat_134: 7516331374737070542
+      WhiteCat_135: -4912033543449075576
+      WhiteCat_136: 769004174600693502
+      WhiteCat_137: -5083266401074925239
+      WhiteCat_138: -605743661867598839
+      WhiteCat_139: 4131574220771972862
+      WhiteCat_14: -3006557038432604105
+      WhiteCat_140: 3630712393310098069
+      WhiteCat_141: 7332899891276294052
+      WhiteCat_142: 8599751344912672961
+      WhiteCat_143: -5024127272066788987
+      WhiteCat_144: 3498969575939201346
+      WhiteCat_145: 1823285495036705321
+      WhiteCat_15: -6559201499526064702
+      WhiteCat_16: -5154716437366034625
+      WhiteCat_17: 75392554556159462
+      WhiteCat_18: -7520623311820203738
+      WhiteCat_19: 4713738659806777755
+      WhiteCat_2: -1851343251798965291
+      WhiteCat_20: 3099012123876025216
+      WhiteCat_21: 6242584558075763205
+      WhiteCat_22: 4935310032003701649
+      WhiteCat_23: -681173083024146940
+      WhiteCat_24: 2217806232477204695
+      WhiteCat_25: -3686969629807709971
+      WhiteCat_26: -8782025775129865464
+      WhiteCat_27: 7384190141093198415
+      WhiteCat_28: 663484857241918267
+      WhiteCat_29: -8875668378307675654
+      WhiteCat_3: -1306046158586985923
+      WhiteCat_30: -3464290673699393173
+      WhiteCat_31: 6017705894765256137
+      WhiteCat_32: 2166534497118759314
+      WhiteCat_33: -2264453851947723412
+      WhiteCat_34: -1984114230239876235
+      WhiteCat_35: 3885703735996308184
+      WhiteCat_36: 4172527988944774662
+      WhiteCat_37: 4925734027635277954
+      WhiteCat_38: 7060640748016460082
+      WhiteCat_39: 1515253933315425837
+      WhiteCat_4: 5771694186064597813
+      WhiteCat_40: 454372784839722251
+      WhiteCat_41: 599782309400280099
+      WhiteCat_42: -42884351269037087
+      WhiteCat_43: 8149744483481907909
+      WhiteCat_44: 4279928440933313926
+      WhiteCat_45: 1873621477525551786
+      WhiteCat_46: -9093804527462474517
+      WhiteCat_47: -484518392517037587
+      WhiteCat_48: -8079104471891143547
+      WhiteCat_49: -8252872181335348109
+      WhiteCat_5: -2883076343873627403
+      WhiteCat_50: -3654686899419346483
+      WhiteCat_51: 4272348855284990203
+      WhiteCat_52: 2387074618022743882
+      WhiteCat_53: -2650217423749342121
+      WhiteCat_54: -6209228602538279122
+      WhiteCat_55: -824398436324738021
+      WhiteCat_56: 2207334058105492448
+      WhiteCat_57: -6552474694955640504
+      WhiteCat_58: 7048785412716150098
+      WhiteCat_59: 6481735321408971289
+      WhiteCat_6: 2863982237940651437
+      WhiteCat_60: 3582584129369168981
+      WhiteCat_61: 5565805209372258251
+      WhiteCat_62: 7998520038773292671
+      WhiteCat_63: -8072515187124334083
+      WhiteCat_64: -2995520939610505332
+      WhiteCat_65: 4177700591622561582
+      WhiteCat_66: -7145959711688872081
+      WhiteCat_67: 7102608843986365840
+      WhiteCat_68: 6241638913306588465
+      WhiteCat_69: 2647789410671121236
+      WhiteCat_7: 8624140515444204191
+      WhiteCat_70: -3036268480032268109
+      WhiteCat_71: 8244165733505337366
+      WhiteCat_72: -1100529379643438786
+      WhiteCat_73: -8315426987602993636
+      WhiteCat_74: -5948514329109897139
+      WhiteCat_75: -2060608351788657992
+      WhiteCat_76: -1591915088061196102
+      WhiteCat_77: -7590871519365737511
+      WhiteCat_78: -7543892815351238763
+      WhiteCat_79: -6072881687844123468
+      WhiteCat_8: -8700722430037057662
+      WhiteCat_80: 3647451374469419943
+      WhiteCat_81: 6269779522115860395
+      WhiteCat_82: -4788383118147687024
+      WhiteCat_83: 5179951068668989831
+      WhiteCat_84: -1175812581544429290
+      WhiteCat_85: -1742477078730963307
+      WhiteCat_86: 3328061191995332251
+      WhiteCat_87: 3365346047838947489
+      WhiteCat_88: -6014617455405720338
+      WhiteCat_89: -3439469112262507042
+      WhiteCat_9: -979365599234707290
+      WhiteCat_90: 5998985183289129627
+      WhiteCat_91: 954241566753424264
+      WhiteCat_92: 26440348932581943
+      WhiteCat_93: -4473813035258886060
+      WhiteCat_94: 8098120846883012436
+      WhiteCat_95: -120852335842935134
+      WhiteCat_96: 3831017578784398557
+      WhiteCat_97: -2058973150192456718
+      WhiteCat_98: -2581283718158345070
+      WhiteCat_99: 5804887943737390900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

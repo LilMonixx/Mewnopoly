@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: aafda33e6d5d14e46882138c3ca90615
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4653116270623498108
+    second: draculacats_0
+  - first:
+      213: -3720573274541130620
+    second: draculacats_1
+  - first:
+      213: 7712695855833252398
+    second: draculacats_2
+  - first:
+      213: -4818783477611218484
+    second: draculacats_3
+  - first:
+      213: 1693286892376013068
+    second: draculacats_4
+  - first:
+      213: 3538857772549795710
+    second: draculacats_5
+  - first:
+      213: -626046254334996686
+    second: draculacats_6
+  - first:
+      213: -7956041381047437987
+    second: draculacats_7
+  - first:
+      213: 2292958765175727635
+    second: draculacats_8
+  - first:
+      213: -6901875172188790121
+    second: draculacats_9
+  - first:
+      213: 4292880022133509261
+    second: draculacats_10
+  - first:
+      213: 5307028182862779310
+    second: draculacats_11
+  - first:
+      213: -386000457258196496
+    second: draculacats_12
+  - first:
+      213: -495325475609745927
+    second: draculacats_13
+  - first:
+      213: 7630840421639706321
+    second: draculacats_14
+  - first:
+      213: 3815064124388708287
+    second: draculacats_15
+  - first:
+      213: 2355588419092919928
+    second: draculacats_16
+  - first:
+      213: 363266566331720755
+    second: draculacats_17
+  - first:
+      213: 423741197501698298
+    second: draculacats_18
+  - first:
+      213: 2017736219311957131
+    second: draculacats_19
+  - first:
+      213: -6546544169895290988
+    second: draculacats_20
+  - first:
+      213: 7931533551054761838
+    second: draculacats_21
+  - first:
+      213: 6128279077950156818
+    second: draculacats_22
+  - first:
+      213: -4592051974743630678
+    second: draculacats_23
+  - first:
+      213: 7435125720046183062
+    second: draculacats_24
+  - first:
+      213: -4545137548280425993
+    second: draculacats_25
+  - first:
+      213: 6414528247742197979
+    second: draculacats_26
+  - first:
+      213: 1798012829659906268
+    second: draculacats_27
+  - first:
+      213: 3089723813205695435
+    second: draculacats_28
+  - first:
+      213: -996658423542834601
+    second: draculacats_29
+  - first:
+      213: -3976361215256277518
+    second: draculacats_30
+  - first:
+      213: -8373531740707007711
+    second: draculacats_31
+  - first:
+      213: -5648673937524239460
+    second: draculacats_32
+  - first:
+      213: 2879343257952142715
+    second: draculacats_33
+  - first:
+      213: 261731407078214869
+    second: draculacats_34
+  - first:
+      213: 3584010305956981519
+    second: draculacats_35
+  - first:
+      213: 1794297046877312725
+    second: draculacats_36
+  - first:
+      213: -5163627298910981866
+    second: draculacats_37
+  - first:
+      213: 1650270622090255501
+    second: draculacats_38
+  - first:
+      213: -2367229902884876263
+    second: draculacats_39
+  - first:
+      213: -6550647207428411062
+    second: draculacats_40
+  - first:
+      213: 5157264193612483556
+    second: draculacats_41
+  - first:
+      213: -1496152823742367853
+    second: draculacats_42
+  - first:
+      213: 7790427325858469608
+    second: draculacats_43
+  - first:
+      213: 5258670691663124745
+    second: draculacats_44
+  - first:
+      213: -7905756180862452949
+    second: draculacats_45
+  - first:
+      213: 8915617663805906745
+    second: draculacats_46
+  - first:
+      213: -1665996785628997728
+    second: draculacats_47
+  - first:
+      213: 7783631429635851643
+    second: draculacats_48
+  - first:
+      213: -2350584318004687013
+    second: draculacats_49
+  - first:
+      213: 5889477079837584386
+    second: draculacats_50
+  - first:
+      213: 3246567696416690991
+    second: draculacats_51
+  - first:
+      213: 4805458946198858071
+    second: draculacats_52
+  - first:
+      213: -4786824724644000490
+    second: draculacats_53
+  - first:
+      213: -3434175441432297387
+    second: draculacats_54
+  - first:
+      213: 6166531603635540226
+    second: draculacats_55
+  - first:
+      213: 3390051226313421154
+    second: draculacats_56
+  - first:
+      213: -3449028745980829442
+    second: draculacats_57
+  - first:
+      213: -225274015405773783
+    second: draculacats_58
+  - first:
+      213: -5725124590777765247
+    second: draculacats_59
+  - first:
+      213: 8390593747524930983
+    second: draculacats_60
+  - first:
+      213: 7500394764275066094
+    second: draculacats_61
+  - first:
+      213: -7061580476022472886
+    second: draculacats_62
+  - first:
+      213: 3733774728217905829
+    second: draculacats_63
+  - first:
+      213: -6185067835300906729
+    second: draculacats_64
+  - first:
+      213: -4435850764824725062
+    second: draculacats_65
+  - first:
+      213: 6744017816331279110
+    second: draculacats_66
+  - first:
+      213: -5492449566822611475
+    second: draculacats_67
+  - first:
+      213: -2782080009292771806
+    second: draculacats_68
+  - first:
+      213: 9085088375764376814
+    second: draculacats_69
+  - first:
+      213: -8734667672983703938
+    second: draculacats_70
+  - first:
+      213: 6170502352021678190
+    second: draculacats_71
+  - first:
+      213: -1451237281585792048
+    second: draculacats_72
+  - first:
+      213: 6878076755808607954
+    second: draculacats_73
+  - first:
+      213: 7009374881979521217
+    second: draculacats_74
+  - first:
+      213: -832082675242685716
+    second: draculacats_75
+  - first:
+      213: 5081353445260747052
+    second: draculacats_76
+  - first:
+      213: -8165987380822053022
+    second: draculacats_77
+  - first:
+      213: -9099289456440453825
+    second: draculacats_78
+  - first:
+      213: -173313055288700691
+    second: draculacats_79
+  - first:
+      213: 7631526593282070689
+    second: draculacats_80
+  - first:
+      213: 3146558515752978977
+    second: draculacats_81
+  - first:
+      213: -7048683519572572161
+    second: draculacats_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: draculacats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f9a194890339040800000000000000
+      internalID: 4653116270623498108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 351
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cf92ab15edd5cc0800000000000000
+      internalID: -3720573274541130620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 351
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22819b6400090b60800000000000000
+      internalID: 7712695855833252398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9367745fd302db0800000000000000
+      internalID: -4818783477611218484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 351
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09b5ea0573cf7710800000000000000
+      internalID: 1693286892376013068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fe57bf46c8c1130800000000000000
+      internalID: 3538857772549795710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 351
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f0665af36df47f0800000000000000
+      internalID: -626046254334996686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55fb505486769190800000000000000
+      internalID: -7956041381047437987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 351
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316eaea29d932df10800000000000000
+      internalID: 2292958765175727635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792699d391d9730a0800000000000000
+      internalID: -6901875172188790121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c83aea2af539b30800000000000000
+      internalID: 4292880022133509261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d584b30a56a940800000000000000
+      internalID: 5307028182862779310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 319
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1acf511a6a4aaf0800000000000000
+      internalID: -386000457258196496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 319
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f56412ba104029f0800000000000000
+      internalID: -495325475609745927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6d68dfee036e960800000000000000
+      internalID: 7630840421639706321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 319
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf8689ab94d1f430800000000000000
+      internalID: 3815064124388708287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876be0dcf2bb0b020800000000000000
+      internalID: 2355588419092919928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 319
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3346af474059a0500800000000000000
+      internalID: 363266566331720755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af099c1cf5e61e500800000000000000
+      internalID: 423741197501698298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84678aa660700c10800000000000000
+      internalID: 2017736219311957131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4979cf633c00625a0800000000000000
+      internalID: -6546544169895290988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f26baddb7721e60800000000000000
+      internalID: 7931533551054761838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2107da53a550c0550800000000000000
+      internalID: 6128279077950156818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 223
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac56470f01c540c0800000000000000
+      internalID: -4592051974743630678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 223
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69229bb037fde2760800000000000000
+      internalID: 7435125720046183062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f194732b7d6ce0c0800000000000000
+      internalID: -4545137548280425993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 223
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0f168a47bf40950800000000000000
+      internalID: 6414528247742197979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0497d6423d3f810800000000000000
+      internalID: 1798012829659906268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbd0342077e0ea20800000000000000
+      internalID: 3089723813205695435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a145eb1782b22f0800000000000000
+      internalID: -996658423542834601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd420ada8021d8c0800000000000000
+      internalID: -3976361215256277518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12353b72f3d3bcb80800000000000000
+      internalID: -8373531740707007711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c935cd55bf0eb91b0800000000000000
+      internalID: -5648673937524239460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7547ac007b75f720800000000000000
+      internalID: 2879343257952142715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcc579f35bd1a300800000000000000
+      internalID: 261731407078214869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 191
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba7e56266fcb130800000000000000
+      internalID: 3584010305956981519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d697a458af96e810800000000000000
+      internalID: 1794297046877312725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611b6e7645c1758b0800000000000000
+      internalID: -5163627298910981866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 191
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cd3f42360f6e610800000000000000
+      internalID: 1650270622090255501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9105dd802f8e52fd0800000000000000
+      internalID: -2367229902884876263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a413358521d6715a0800000000000000
+      internalID: -6550647207428411062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb0d11b578429740800000000000000
+      internalID: 5157264193612483556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 159
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397732b0fe89c3be0800000000000000
+      internalID: -1496152823742367853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e65a4e90682d1c60800000000000000
+      internalID: 7790427325858469608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9099657e12d8af840800000000000000
+      internalID: 5258670691663124745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b38d6d3ac194290800000000000000
+      internalID: -7905756180862452949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 159
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f595c3703aabb70800000000000000
+      internalID: 8915617663805906745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a714a310c031e8e0800000000000000
+      internalID: -1665996785628997728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 159
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c20abb83050c60800000000000000
+      internalID: 7783631429635851643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f0ab6440c016fd0800000000000000
+      internalID: -2350584318004687013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 159
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c26884330abb150800000000000000
+      internalID: 5889477079837584386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23dc2c6e102e0d20800000000000000
+      internalID: 3246567696416690991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_52
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 159
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e7ee737b60b240800000000000000
+      internalID: 4805458946198858071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d898d4648c19db0800000000000000
+      internalID: -4786824724644000490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 159
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550ce0d81ab5750d0800000000000000
+      internalID: -3434175441432297387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2019ae262dbe39550800000000000000
+      internalID: 6166531603635540226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_56
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261f9ca01a1eb0f20800000000000000
+      internalID: 3390051226313421154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_57
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0a3b711a69220d0800000000000000
+      internalID: -3449028745980829442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cec9ef97aafdcf0800000000000000
+      internalID: -225274015405773783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18276d784854c80b0800000000000000
+      internalID: -5725124590777765247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad46dfde80617470800000000000000
+      internalID: 8390593747524930983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4a0df9c41c61860800000000000000
+      internalID: 7500394764275066094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb8dd88f9300e90800000000000000
+      internalID: -7061580476022472886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_63
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa42ca355801d330800000000000000
+      internalID: 3733774728217905829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719f13dd2993a2aa0800000000000000
+      internalID: -6185067835300906729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_65
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab93af54b31b072c0800000000000000
+      internalID: -4435850764824725062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bd45df870979d50800000000000000
+      internalID: 6744017816331279110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_67
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de54ace1836e6c3b0800000000000000
+      internalID: -5492449566822611475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e836db8f01469d0800000000000000
+      internalID: -2782080009292771806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_69
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 31
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec577e2eb7b41e70800000000000000
+      internalID: 9085088375764376814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ee7b8970a38c680800000000000000
+      internalID: -8734667672983703938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_71
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 31
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e6f9423702a550800000000000000
+      internalID: 6170502352021678190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_72
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 31
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7642a16b2cdbe0800000000000000
+      internalID: -1451237281585792048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_73
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 31
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ded7d72e56d37f50800000000000000
+      internalID: 6878076755808607954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c85fe1615d464160800000000000000
+      internalID: 7009374881979521217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea27662739d374f0800000000000000
+      internalID: -832082675242685716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2169fa4908948640800000000000000
+      internalID: 5081353445260747052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_77
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f67cd0eb59cae80800000000000000
+      internalID: -8165987380822053022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_78
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35d8601374d8b180800000000000000
+      internalID: -9099289456440453825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_79
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de05498c1b4489df0800000000000000
+      internalID: -173313055288700691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85686c001a8e960800000000000000
+      internalID: 7631526593282070689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_81
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12acf648c42daab20800000000000000
+      internalID: 3146558515752978977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: draculacats_82
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70ab93fab0e2e90800000000000000
+      internalID: -7048683519572572161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      draculacats_0: 4653116270623498108
+      draculacats_1: -3720573274541130620
+      draculacats_10: 4292880022133509261
+      draculacats_11: 5307028182862779310
+      draculacats_12: -386000457258196496
+      draculacats_13: -495325475609745927
+      draculacats_14: 7630840421639706321
+      draculacats_15: 3815064124388708287
+      draculacats_16: 2355588419092919928
+      draculacats_17: 363266566331720755
+      draculacats_18: 423741197501698298
+      draculacats_19: 2017736219311957131
+      draculacats_2: 7712695855833252398
+      draculacats_20: -6546544169895290988
+      draculacats_21: 7931533551054761838
+      draculacats_22: 6128279077950156818
+      draculacats_23: -4592051974743630678
+      draculacats_24: 7435125720046183062
+      draculacats_25: -4545137548280425993
+      draculacats_26: 6414528247742197979
+      draculacats_27: 1798012829659906268
+      draculacats_28: 3089723813205695435
+      draculacats_29: -996658423542834601
+      draculacats_3: -4818783477611218484
+      draculacats_30: -3976361215256277518
+      draculacats_31: -8373531740707007711
+      draculacats_32: -5648673937524239460
+      draculacats_33: 2879343257952142715
+      draculacats_34: 261731407078214869
+      draculacats_35: 3584010305956981519
+      draculacats_36: 1794297046877312725
+      draculacats_37: -5163627298910981866
+      draculacats_38: 1650270622090255501
+      draculacats_39: -2367229902884876263
+      draculacats_4: 1693286892376013068
+      draculacats_40: -6550647207428411062
+      draculacats_41: 5157264193612483556
+      draculacats_42: -1496152823742367853
+      draculacats_43: 7790427325858469608
+      draculacats_44: 5258670691663124745
+      draculacats_45: -7905756180862452949
+      draculacats_46: 8915617663805906745
+      draculacats_47: -1665996785628997728
+      draculacats_48: 7783631429635851643
+      draculacats_49: -2350584318004687013
+      draculacats_5: 3538857772549795710
+      draculacats_50: 5889477079837584386
+      draculacats_51: 3246567696416690991
+      draculacats_52: 4805458946198858071
+      draculacats_53: -4786824724644000490
+      draculacats_54: -3434175441432297387
+      draculacats_55: 6166531603635540226
+      draculacats_56: 3390051226313421154
+      draculacats_57: -3449028745980829442
+      draculacats_58: -225274015405773783
+      draculacats_59: -5725124590777765247
+      draculacats_6: -626046254334996686
+      draculacats_60: 8390593747524930983
+      draculacats_61: 7500394764275066094
+      draculacats_62: -7061580476022472886
+      draculacats_63: 3733774728217905829
+      draculacats_64: -6185067835300906729
+      draculacats_65: -4435850764824725062
+      draculacats_66: 6744017816331279110
+      draculacats_67: -5492449566822611475
+      draculacats_68: -2782080009292771806
+      draculacats_69: 9085088375764376814
+      draculacats_7: -7956041381047437987
+      draculacats_70: -8734667672983703938
+      draculacats_71: 6170502352021678190
+      draculacats_72: -1451237281585792048
+      draculacats_73: 6878076755808607954
+      draculacats_74: 7009374881979521217
+      draculacats_75: -832082675242685716
+      draculacats_76: 5081353445260747052
+      draculacats_77: -8165987380822053022
+      draculacats_78: -9099289456440453825
+      draculacats_79: -173313055288700691
+      draculacats_8: 2292958765175727635
+      draculacats_80: 7631526593282070689
+      draculacats_81: 3146558515752978977
+      draculacats_82: -7048683519572572161
+      draculacats_9: -6901875172188790121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
