@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1302391716061387425}
   - component: {fileID: 2060438757439127654}
-  - component: {fileID: 4208374499330962564}
   - component: {fileID: 3274924539762337762}
+  - component: {fileID: 4208374499330962564}
   m_Layer: 0
   m_Name: cat
   m_TagString: Untagged
@@ -94,25 +94,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
---- !u!114 &4208374499330962564
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3159173058514962471}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 539a68829f77d0e4cb714a7035a1dc63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Player
-  playerIndex: 0
-  playerName: "M\xE8o 1"
-  playerColor: {r: 1, g: 1, b: 1, a: 1}
-  money: 1500
-  currentTileIndex: 0
-  moveSpeed: 7
-  isMoving: 0
 --- !u!114 &3274924539762337762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -125,7 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.Netcode.Runtime::Unity.Netcode.NetworkObject
-  GlobalObjectIdHash: 0
+  GlobalObjectIdHash: 2422998480
   InScenePlacedSourceGlobalObjectIdHash: 0
   m_InScenePlacedDisabledByDefault: 0
   DeferredDespawnTick: 0
@@ -140,3 +121,29 @@ MonoBehaviour:
   AutoObjectParentSync: 1
   SyncOwnerTransformWhenParented: 1
   AllowOwnerToParent: 0
+--- !u!114 &4208374499330962564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3159173058514962471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 539a68829f77d0e4cb714a7035a1dc63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Player
+  ShowTopMostFoldoutHeaderGroup: 1
+  currentTileIndex:
+    UpdateTraits:
+      MinSecondsBetweenUpdates: 0
+      MaxSecondsBetweenUpdates: 0
+    m_InternalValue: 0
+  money:
+    UpdateTraits:
+      MinSecondsBetweenUpdates: 0
+      MaxSecondsBetweenUpdates: 0
+    m_InternalValue: 1500
+  playerName: "M\xE8o 1"
+  playerColor: {r: 1, g: 1, b: 1, a: 1}
+  playerIndex: 0
